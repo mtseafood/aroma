@@ -9,15 +9,38 @@
     "plant_part": "花朵",
     "origin": "法國、保加利亞",
     "description": "薰衣草是最廣泛使用的精油之一，以其平靜和放鬆的特性聞名。它擁有清新的花香氣味，能夠有效舒緩壓力、改善睡眠品質，並具有抗菌和消炎功效。無論是情緒調節還是皮膚護理，薰衣草精油都是居家常備的好選擇。",
-    "main_effects": ["舒緩壓力", "助眠", "抗菌", "消炎", "皮膚修復"],
+    "main_effects": [
+      "舒緩壓力",
+      "助眠",
+      "抗菌",
+      "消炎",
+      "皮膚修復"
+    ],
     "usage_methods": [
-      {"method": "擴香", "instruction": "加入 3-5 滴到擴香器中，睡前使用有助放鬆入眠。"},
-      {"method": "按摩", "instruction": "以 1% 稀釋（每 10ml 基底油加 2 滴），塗抹於太陽穴或頸部有助緩解頭痛。"},
-      {"method": "沐浴", "instruction": "加入 5-6 滴到已放好水的浴缸中，攪拌均勻後浸泡 15-20 分鐘。"},
-      {"method": "吸嗅", "instruction": "直接從瓶口嗅聞，或滴在紙巾上放置於枕邊。"}
+      {
+        "method": "擴香",
+        "instruction": "加入 3-5 滴到擴香器中，睡前使用有助放鬆入眠。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "以 1% 稀釋（每 10ml 基底油加 2 滴），塗抹於太陽穴或頸部有助緩解頭痛。"
+      },
+      {
+        "method": "沐浴",
+        "instruction": "加入 5-6 滴到已放好水的浴缸中，攪拌均勻後浸泡 15-20 分鐘。"
+      },
+      {
+        "method": "吸嗅",
+        "instruction": "直接從瓶口嗅聞，或滴在紙巾上放置於枕邊。"
+      }
     ],
     "precautions": "一般安全，但建議稀釋使用。孕婦前三個月謹慎使用。嬰幼兒使用請先諮詢醫師。",
-    "blends_well": [2, 5, 8, 12],
+    "blends_well": [
+      2,
+      5,
+      8,
+      12
+    ],
     "aroma_profile": "清新、花香、草本",
     "intensity": 4,
     "image_url": null,
@@ -33,14 +56,34 @@
     "plant_part": "果皮",
     "origin": "巴西、美國",
     "description": "甜橙精油帶有明亮溫暖的柑橘香氣，能夠有效提振情緒、驅走憂鬱感。它是家庭中最安全易用的精油之一，適合各種年齡使用。甜橙也具有優異的除臭和空氣淨化效果。",
-    "main_effects": ["提振情緒", "抗憂鬱", "除臭", "促進消化", "增強免疫"],
+    "main_effects": [
+      "提振情緒",
+      "抗憂鬱",
+      "除臭",
+      "促進消化",
+      "增強免疫"
+    ],
     "usage_methods": [
-      {"method": "擴香", "instruction": "加入 4-6 滴到擴香器，可提振家中氣氛，適合清晨使用。"},
-      {"method": "按摩", "instruction": "稀釋至 2% 後，按摩腹部可促進消化。"},
-      {"method": "清潔", "instruction": "加入清潔劑中使用，天然除臭效果佳。"}
+      {
+        "method": "擴香",
+        "instruction": "加入 4-6 滴到擴香器，可提振家中氣氛，適合清晨使用。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 2% 後，按摩腹部可促進消化。"
+      },
+      {
+        "method": "清潔",
+        "instruction": "加入清潔劑中使用，天然除臭效果佳。"
+      }
     ],
     "precautions": "具有光敏性，使用後 12 小時內避免陽光直射皮膚。一般安全，適合大多數人使用。",
-    "blends_well": [1, 3, 11, 15],
+    "blends_well": [
+      1,
+      3,
+      11,
+      15
+    ],
     "aroma_profile": "甜橙、柑橘、溫暖",
     "intensity": 6,
     "image_url": null,
@@ -56,15 +99,38 @@
     "plant_part": "葉片",
     "origin": "澳洲",
     "description": "茶樹精油是公認最強效的天然抗菌精油之一，被廣泛應用於皮膚護理和居家清潔。它對各種細菌、真菌和病毒都有抑制效果，是天然急救箱的必備品。",
-    "main_effects": ["強效抗菌", "抗真菌", "抗病毒", "消炎", "清潔肌膚"],
+    "main_effects": [
+      "強效抗菌",
+      "抗真菌",
+      "抗病毒",
+      "消炎",
+      "清潔肌膚"
+    ],
     "usage_methods": [
-      {"method": "局部塗抹", "instruction": "稀釋至 1-2% 後，點塗在痘痘或小傷口上。"},
-      {"method": "擴香", "instruction": "加入 3-4 滴到擴香器，可淨化空氣、預防感冒傳播。"},
-      {"method": "洗髮", "instruction": "加入 2-3 滴到洗髮精中，有助去除頭皮屑。"},
-      {"method": "清潔噴霧", "instruction": "每 100ml 水加入 10 滴，可作為天然表面清潔劑。"}
+      {
+        "method": "局部塗抹",
+        "instruction": "稀釋至 1-2% 後，點塗在痘痘或小傷口上。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 3-4 滴到擴香器，可淨化空氣、預防感冒傳播。"
+      },
+      {
+        "method": "洗髮",
+        "instruction": "加入 2-3 滴到洗髮精中，有助去除頭皮屑。"
+      },
+      {
+        "method": "清潔噴霧",
+        "instruction": "每 100ml 水加入 10 滴，可作為天然表面清潔劑。"
+      }
     ],
     "precautions": "切勿直接塗抹未稀釋的精油於皮膚。避免接觸眼睛。勿口服。寵物（尤其貓咪）周邊謹慎使用。",
-    "blends_well": [1, 9, 14, 18],
+    "blends_well": [
+      1,
+      9,
+      14,
+      18
+    ],
     "aroma_profile": "清新、藥草、清潔",
     "intensity": 7,
     "image_url": null,
@@ -80,15 +146,38 @@
     "plant_part": "葉片",
     "origin": "美國、印度",
     "description": "薄荷精油以其清涼提神的氣味著稱，是提振精神和緩解頭痛的絕佳選擇。它含有豐富的薄荷腦，能帶來即時的清涼感受。對於消化問題和運動後肌肉酸痛也有良好的緩解效果。",
-    "main_effects": ["提神醒腦", "緩解頭痛", "促進消化", "清涼止癢", "緩解肌肉疼痛"],
+    "main_effects": [
+      "提神醒腦",
+      "緩解頭痛",
+      "促進消化",
+      "清涼止癢",
+      "緩解肌肉疼痛"
+    ],
     "usage_methods": [
-      {"method": "吸嗅", "instruction": "直接嗅聞或加入個人吸嗅棒，迅速提神或緩解頭痛。"},
-      {"method": "按摩", "instruction": "稀釋至 1% 後，塗抹於太陽穴和後頸有助緩解頭痛。"},
-      {"method": "擴香", "instruction": "工作時使用 2-3 滴有助提升專注力。"},
-      {"method": "冷敷", "instruction": "加入冷水中製成冷敷布，緩解肌肉酸痛或退燒。"}
+      {
+        "method": "吸嗅",
+        "instruction": "直接嗅聞或加入個人吸嗅棒，迅速提神或緩解頭痛。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1% 後，塗抹於太陽穴和後頸有助緩解頭痛。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "工作時使用 2-3 滴有助提升專注力。"
+      },
+      {
+        "method": "冷敷",
+        "instruction": "加入冷水中製成冷敷布，緩解肌肉酸痛或退燒。"
+      }
     ],
     "precautions": "不適合 6 歲以下兒童使用，尤其避免在臉部和頸部使用。孕婦避免使用。使用後請避免直接暴露於高溫環境。",
-    "blends_well": [1, 5, 10, 20],
+    "blends_well": [
+      1,
+      5,
+      10,
+      20
+    ],
     "aroma_profile": "清涼、薄荷、清新",
     "intensity": 9,
     "image_url": null,
@@ -104,14 +193,34 @@
     "plant_part": "葉片",
     "origin": "澳洲、西班牙",
     "description": "尤加利精油以清新的樟腦氣味聞名，是呼吸道問題的最佳幫手。它能有效疏通鼻塞、緩解咳嗽，並具有強效的抗菌性質。在流感季節使用尤加利擴香，可幫助淨化室內空氣。",
-    "main_effects": ["疏通鼻塞", "緩解咳嗽", "抗菌", "消炎", "提神"],
+    "main_effects": [
+      "疏通鼻塞",
+      "緩解咳嗽",
+      "抗菌",
+      "消炎",
+      "提神"
+    ],
     "usage_methods": [
-      {"method": "蒸氣吸嗅", "instruction": "在碗中加入熱水，滴入 2-3 滴，頭蓋毛巾吸嗅蒸氣 5-10 分鐘。"},
-      {"method": "擴香", "instruction": "感冒季節加入 3-4 滴擴香，有助清潔空氣和緩解症狀。"},
-      {"method": "按摩", "instruction": "稀釋至 2% 後，塗抹於胸口按摩，緩解支氣管症狀。"}
+      {
+        "method": "蒸氣吸嗅",
+        "instruction": "在碗中加入熱水，滴入 2-3 滴，頭蓋毛巾吸嗅蒸氣 5-10 分鐘。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "感冒季節加入 3-4 滴擴香，有助清潔空氣和緩解症狀。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 2% 後，塗抹於胸口按摩，緩解支氣管症狀。"
+      }
     ],
     "precautions": "不適合 6 歲以下兒童使用。孕婦和哺乳期婦女謹慎使用。勿口服。",
-    "blends_well": [1, 4, 9, 13],
+    "blends_well": [
+      1,
+      4,
+      9,
+      13
+    ],
     "aroma_profile": "清新、樟腦、草本",
     "intensity": 8,
     "image_url": null,
@@ -127,14 +236,34 @@
     "plant_part": "花朵",
     "origin": "保加利亞、土耳其",
     "description": "玫瑰精油是精油世界中的女王，以其濃郁迷人的花香和卓越的護膚功效著稱。它需要大量玫瑰花才能萃取少量精油，因此非常珍貴。對於情緒調節、抗衰老和女性健康都有顯著的幫助。",
-    "main_effects": ["護膚抗老", "調節情緒", "抗憂鬱", "平衡荷爾蒙", "增強自信"],
+    "main_effects": [
+      "護膚抗老",
+      "調節情緒",
+      "抗憂鬱",
+      "平衡荷爾蒙",
+      "增強自信"
+    ],
     "usage_methods": [
-      {"method": "按摩", "instruction": "稀釋至 0.5-1% 後，加入面部精華或乳液中使用，有效滋養肌膚。"},
-      {"method": "擴香", "instruction": "加入 2-3 滴，創造浪漫溫馨的氛圍，有助緩解情緒低落。"},
-      {"method": "沐浴", "instruction": "加入 4-5 滴到浴缸，享受奢華的芳香沐浴。"}
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 0.5-1% 後，加入面部精華或乳液中使用，有效滋養肌膚。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 2-3 滴，創造浪漫溫馨的氛圍，有助緩解情緒低落。"
+      },
+      {
+        "method": "沐浴",
+        "instruction": "加入 4-5 滴到浴缸，享受奢華的芳香沐浴。"
+      }
     ],
     "precautions": "一般安全，但建議稀釋使用。孕婦前三個月避免使用。注意購買正品，市售玫瑰精油多為調和品。",
-    "blends_well": [1, 7, 11, 16],
+    "blends_well": [
+      1,
+      7,
+      11,
+      16
+    ],
     "aroma_profile": "濃郁、花香、甜美",
     "intensity": 7,
     "image_url": null,
@@ -150,14 +279,34 @@
     "plant_part": "樹脂",
     "origin": "阿曼、索馬利亞",
     "description": "乳香精油有著數千年的使用歷史，被尊稱為精油之王。它的氣味深沉、神聖，有助於深度冥想和心靈平靜。在護膚方面，乳香是著名的抗老化精油，能幫助淡化細紋和疤痕。",
-    "main_effects": ["深度放鬆", "冥想助力", "抗老化", "淡化疤痕", "增強免疫"],
+    "main_effects": [
+      "深度放鬆",
+      "冥想助力",
+      "抗老化",
+      "淡化疤痕",
+      "增強免疫"
+    ],
     "usage_methods": [
-      {"method": "冥想", "instruction": "冥想或瑜珈前擴香 2-3 滴，有助進入深度放鬆狀態。"},
-      {"method": "護膚", "instruction": "稀釋至 1% 後加入面霜，有效抗老化，適合熟齡肌膚。"},
-      {"method": "擴香", "instruction": "工作壓力大時擴香，有助平靜心情、提升專注力。"}
+      {
+        "method": "冥想",
+        "instruction": "冥想或瑜珈前擴香 2-3 滴，有助進入深度放鬆狀態。"
+      },
+      {
+        "method": "護膚",
+        "instruction": "稀釋至 1% 後加入面霜，有效抗老化，適合熟齡肌膚。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "工作壓力大時擴香，有助平靜心情、提升專注力。"
+      }
     ],
     "precautions": "一般安全。孕婦謹慎使用。勿口服。",
-    "blends_well": [1, 6, 8, 17],
+    "blends_well": [
+      1,
+      6,
+      8,
+      17
+    ],
     "aroma_profile": "深沉、樹脂、神聖",
     "intensity": 5,
     "image_url": null,
@@ -173,14 +322,34 @@
     "plant_part": "木材",
     "origin": "摩洛哥、美國",
     "description": "雪松精油散發著溫暖、木質的香氣，能帶來穩定和安全感。它是優秀的助眠精油，也常用於男性香水的基調。雪松對頭皮護理和頭髮健康也有很好的幫助。",
-    "main_effects": ["助眠", "穩定情緒", "護理頭皮", "抗蟲驅蟲", "收斂"],
+    "main_effects": [
+      "助眠",
+      "穩定情緒",
+      "護理頭皮",
+      "抗蟲驅蟲",
+      "收斂"
+    ],
     "usage_methods": [
-      {"method": "擴香", "instruction": "睡前加入 3-4 滴與薰衣草混合，有助深眠。"},
-      {"method": "護髮", "instruction": "加入 2-3 滴到洗髮精中，有效改善頭皮健康。"},
-      {"method": "按摩", "instruction": "稀釋後塗抹於背部或胸口，緩解焦慮情緒。"}
+      {
+        "method": "擴香",
+        "instruction": "睡前加入 3-4 滴與薰衣草混合，有助深眠。"
+      },
+      {
+        "method": "護髮",
+        "instruction": "加入 2-3 滴到洗髮精中，有效改善頭皮健康。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋後塗抹於背部或胸口，緩解焦慮情緒。"
+      }
     ],
     "precautions": "孕婦避免使用。一般成人安全使用。勿口服。",
-    "blends_well": [1, 7, 10, 19],
+    "blends_well": [
+      1,
+      7,
+      10,
+      19
+    ],
     "aroma_profile": "木質、溫暖、深沉",
     "intensity": 5,
     "image_url": null,
@@ -196,14 +365,34 @@
     "plant_part": "果皮",
     "origin": "義大利、阿根廷",
     "description": "檸檬精油清新明亮，是最多功能的精油之一。它能有效提振精神、淨化空氣，也是天然清潔劑的絕佳選擇。在皮膚護理方面，檸檬有助於均勻膚色和提亮肌膚。",
-    "main_effects": ["提神醒腦", "淨化空氣", "促進消化", "提亮膚色", "抗菌"],
+    "main_effects": [
+      "提神醒腦",
+      "淨化空氣",
+      "促進消化",
+      "提亮膚色",
+      "抗菌"
+    ],
     "usage_methods": [
-      {"method": "擴香", "instruction": "早晨擴香 3-4 滴，清新空氣並提振精神。"},
-      {"method": "清潔", "instruction": "加入清水或清潔劑中，可有效去除油污和異味。"},
-      {"method": "護膚", "instruction": "稀釋至 0.5% 後，晚間使用有助均勻膚色（使用後避免日曬）。"}
+      {
+        "method": "擴香",
+        "instruction": "早晨擴香 3-4 滴，清新空氣並提振精神。"
+      },
+      {
+        "method": "清潔",
+        "instruction": "加入清水或清潔劑中，可有效去除油污和異味。"
+      },
+      {
+        "method": "護膚",
+        "instruction": "稀釋至 0.5% 後，晚間使用有助均勻膚色（使用後避免日曬）。"
+      }
     ],
     "precautions": "具有強烈光敏性，使用後至少 12 小時避免陽光直射。敏感肌膚需高度稀釋。",
-    "blends_well": [2, 3, 5, 20],
+    "blends_well": [
+      2,
+      3,
+      5,
+      20
+    ],
     "aroma_profile": "清新、柑橘、明亮",
     "intensity": 7,
     "image_url": null,
@@ -219,14 +408,34 @@
     "plant_part": "花朵",
     "origin": "英國、法國",
     "description": "羅馬洋甘菊是最溫和的精油之一，以其卓越的舒緩和抗過敏特性著稱。它特別適合嬰幼兒和敏感肌膚使用，能有效緩解各種皮膚炎症和過敏反應。",
-    "main_effects": ["舒緩敏感肌", "抗過敏", "助眠", "鎮靜安神", "緩解疼痛"],
+    "main_effects": [
+      "舒緩敏感肌",
+      "抗過敏",
+      "助眠",
+      "鎮靜安神",
+      "緩解疼痛"
+    ],
     "usage_methods": [
-      {"method": "擴香", "instruction": "安撫煩躁情緒或睡前擴香 2-3 滴。"},
-      {"method": "局部塗抹", "instruction": "極度稀釋（0.5%）後塗抹於敏感或發炎部位。"},
-      {"method": "沐浴", "instruction": "加入 3-4 滴到溫水浴缸中，舒緩全身緊張感。"}
+      {
+        "method": "擴香",
+        "instruction": "安撫煩躁情緒或睡前擴香 2-3 滴。"
+      },
+      {
+        "method": "局部塗抹",
+        "instruction": "極度稀釋（0.5%）後塗抹於敏感或發炎部位。"
+      },
+      {
+        "method": "沐浴",
+        "instruction": "加入 3-4 滴到溫水浴缸中，舒緩全身緊張感。"
+      }
     ],
     "precautions": "菊科過敏者請謹慎使用。孕婦前三個月避免使用。相對安全，但仍建議稀釋使用。",
-    "blends_well": [1, 6, 8, 16],
+    "blends_well": [
+      1,
+      6,
+      8,
+      16
+    ],
     "aroma_profile": "溫柔、花香、草本",
     "intensity": 4,
     "image_url": null,
@@ -242,14 +451,34 @@
     "plant_part": "果皮",
     "origin": "義大利",
     "description": "佛手柑精油是伯爵茶的特殊香氣來源，帶有清新的柑橘和花香氣息。它是情緒調節的超級精油，能有效緩解焦慮、抑鬱和壓力，同時也有助於改善皮膚問題。",
-    "main_effects": ["緩解焦慮", "抗憂鬱", "提振心情", "淡化色素沉澱", "抗菌"],
+    "main_effects": [
+      "緩解焦慮",
+      "抗憂鬱",
+      "提振心情",
+      "淡化色素沉澱",
+      "抗菌"
+    ],
     "usage_methods": [
-      {"method": "擴香", "instruction": "加入 3-4 滴，有效緩解焦慮和負面情緒。"},
-      {"method": "按摩", "instruction": "稀釋至 1% 後，塗抹於脈搏處或腹部，幫助情緒穩定。"},
-      {"method": "護膚", "instruction": "稀釋後晚間塗抹，有助淡化色素沉澱（使用後避免日曬）。"}
+      {
+        "method": "擴香",
+        "instruction": "加入 3-4 滴，有效緩解焦慮和負面情緒。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1% 後，塗抹於脈搏處或腹部，幫助情緒穩定。"
+      },
+      {
+        "method": "護膚",
+        "instruction": "稀釋後晚間塗抹，有助淡化色素沉澱（使用後避免日曬）。"
+      }
     ],
     "precautions": "具有光敏性，使用後 12 小時避免日曬（FCF 無光敏版本除外）。孕婦謹慎使用。",
-    "blends_well": [1, 6, 7, 9],
+    "blends_well": [
+      1,
+      6,
+      7,
+      9
+    ],
     "aroma_profile": "柑橘、花香、清新",
     "intensity": 6,
     "image_url": null,
@@ -265,14 +494,34 @@
     "plant_part": "花朵",
     "origin": "印尼、菲律賓",
     "description": "依蘭依蘭以其濃烈的異國花香著稱，常被稱為「窮人的茉莉花」。它能有效降低血壓、緩解心悸，並有強烈的催情效果。在護髮方面，依蘭依蘭是讓頭髮有光澤和彈性的絕佳選擇。",
-    "main_effects": ["降低血壓", "緩解心悸", "催情", "護髮增亮", "緩解憤怒"],
+    "main_effects": [
+      "降低血壓",
+      "緩解心悸",
+      "催情",
+      "護髮增亮",
+      "緩解憤怒"
+    ],
     "usage_methods": [
-      {"method": "擴香", "instruction": "少量使用（1-2 滴），濃烈的氣味有助創造浪漫氛圍，也可緩解高血壓。"},
-      {"method": "護髮", "instruction": "加入 2-3 滴到護髮素或椰子油中，護理秀髮。"},
-      {"method": "按摩", "instruction": "稀釋至 0.5-1%，塗抹於胸口按摩，緩解心悸和焦慮。"}
+      {
+        "method": "擴香",
+        "instruction": "少量使用（1-2 滴），濃烈的氣味有助創造浪漫氛圍，也可緩解高血壓。"
+      },
+      {
+        "method": "護髮",
+        "instruction": "加入 2-3 滴到護髮素或椰子油中，護理秀髮。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 0.5-1%，塗抹於胸口按摩，緩解心悸和焦慮。"
+      }
     ],
     "precautions": "氣味極濃烈，過量使用可能導致頭痛或噁心，請謹慎少量使用。孕婦謹慎使用。",
-    "blends_well": [1, 6, 11, 17],
+    "blends_well": [
+      1,
+      6,
+      11,
+      17
+    ],
     "aroma_profile": "濃烈、甜花、異國",
     "intensity": 9,
     "image_url": null,
@@ -288,14 +537,34 @@
     "plant_part": "整株",
     "origin": "西班牙、法國",
     "description": "迷迭香精油以其強烈的草本香氣和卓越的提振效果聞名。它是提升記憶力和專注力的最佳選擇之一，也是促進頭髮生長和改善循環的重要精油。",
-    "main_effects": ["提升專注", "增強記憶", "促進頭髮生長", "改善循環", "緩解肌肉疼痛"],
+    "main_effects": [
+      "提升專注",
+      "增強記憶",
+      "促進頭髮生長",
+      "改善循環",
+      "緩解肌肉疼痛"
+    ],
     "usage_methods": [
-      {"method": "擴香", "instruction": "讀書或工作時擴香 3-4 滴，有效提升專注力和記憶力。"},
-      {"method": "護髮", "instruction": "加入 2-3 滴到洗髮精中，或稀釋後按摩頭皮促進毛髮生長。"},
-      {"method": "按摩", "instruction": "稀釋至 2% 後，按摩疲勞的肌肉，有助緩解酸痛。"}
+      {
+        "method": "擴香",
+        "instruction": "讀書或工作時擴香 3-4 滴，有效提升專注力和記憶力。"
+      },
+      {
+        "method": "護髮",
+        "instruction": "加入 2-3 滴到洗髮精中，或稀釋後按摩頭皮促進毛髮生長。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 2% 後，按摩疲勞的肌肉，有助緩解酸痛。"
+      }
     ],
     "precautions": "癲癇患者禁止使用。孕婦和哺乳期婦女避免使用。高血壓患者謹慎使用。",
-    "blends_well": [4, 5, 9, 14],
+    "blends_well": [
+      4,
+      5,
+      9,
+      14
+    ],
     "aroma_profile": "草本、清新、辛辣",
     "intensity": 8,
     "image_url": null,
@@ -311,14 +580,34 @@
     "plant_part": "葉片",
     "origin": "印尼、印度",
     "description": "廣藿香精油擁有濃郁的大地氣息，是香水工業中重要的定香劑。它能有效緩解焦慮、憂鬱，並有良好的皮膚護理功效，特別適合老化和乾燥肌膚。廣藿香的香氣越陳越醇，是少數越放越好聞的精油。",
-    "main_effects": ["平靜情緒", "抗老化", "護膚保濕", "抗菌", "驅蟲"],
+    "main_effects": [
+      "平靜情緒",
+      "抗老化",
+      "護膚保濕",
+      "抗菌",
+      "驅蟲"
+    ],
     "usage_methods": [
-      {"method": "擴香", "instruction": "少量使用（1-2 滴），可與柑橘類精油調和，平衡氣味。"},
-      {"method": "護膚", "instruction": "稀釋至 1% 後，加入面霜或精華，有效改善成熟肌膚。"},
-      {"method": "按摩", "instruction": "稀釋後按摩於身體，緩解焦慮和壓力。"}
+      {
+        "method": "擴香",
+        "instruction": "少量使用（1-2 滴），可與柑橘類精油調和，平衡氣味。"
+      },
+      {
+        "method": "護膚",
+        "instruction": "稀釋至 1% 後，加入面霜或精華，有效改善成熟肌膚。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋後按摩於身體，緩解焦慮和壓力。"
+      }
     ],
     "precautions": "一般安全。氣味濃烈，建議少量使用。孕婦謹慎使用。",
-    "blends_well": [7, 12, 16, 18],
+    "blends_well": [
+      7,
+      12,
+      16,
+      18
+    ],
     "aroma_profile": "大地、木質、甜美",
     "intensity": 7,
     "image_url": null,
@@ -334,14 +623,34 @@
     "plant_part": "果皮",
     "origin": "美國、阿根廷",
     "description": "葡萄柚精油清新振奮，是體重管理和提振活力的好幫手。它能有效促進淋巴循環、消除水腫，並有助於抑制食慾。明亮的柑橘氣味讓人心情愉快，是早晨最佳的活力精油。",
-    "main_effects": ["提振精神", "促進淋巴循環", "消除水腫", "抑制食慾", "抗憂鬱"],
+    "main_effects": [
+      "提振精神",
+      "促進淋巴循環",
+      "消除水腫",
+      "抑制食慾",
+      "抗憂鬱"
+    ],
     "usage_methods": [
-      {"method": "擴香", "instruction": "早晨擴香 3-4 滴，為新的一天注入正能量。"},
-      {"method": "按摩", "instruction": "稀釋至 2% 後，按摩水腫部位，促進循環和代謝。"},
-      {"method": "沐浴", "instruction": "加入 4-5 滴到浴缸，提振身心、消除疲勞。"}
+      {
+        "method": "擴香",
+        "instruction": "早晨擴香 3-4 滴，為新的一天注入正能量。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 2% 後，按摩水腫部位，促進循環和代謝。"
+      },
+      {
+        "method": "沐浴",
+        "instruction": "加入 4-5 滴到浴缸，提振身心、消除疲勞。"
+      }
     ],
     "precautions": "具有輕微光敏性，使用後避免日曬。服用某些藥物（如他汀類）的患者請先諮詢醫師。",
-    "blends_well": [2, 9, 11, 17],
+    "blends_well": [
+      2,
+      9,
+      11,
+      17
+    ],
     "aroma_profile": "清新、柑橘、微苦",
     "intensity": 6,
     "image_url": null,
@@ -357,14 +666,34 @@
     "plant_part": "葉片與花朵",
     "origin": "埃及、法國",
     "description": "天竺葵精油帶有清新的玫瑰和草本混合香氣，是平衡荷爾蒙和情緒的重要精油。它對女性生理問題特別有幫助，也是優秀的護膚精油，適合各種膚質使用。",
-    "main_effects": ["平衡荷爾蒙", "調節情緒", "護膚平衡", "止血收斂", "驅蟲"],
+    "main_effects": [
+      "平衡荷爾蒙",
+      "調節情緒",
+      "護膚平衡",
+      "止血收斂",
+      "驅蟲"
+    ],
     "usage_methods": [
-      {"method": "擴香", "instruction": "每月經期前後擴香，有助緩解情緒波動。"},
-      {"method": "護膚", "instruction": "稀釋至 1% 後加入保濕乳液，適合各種膚質。"},
-      {"method": "按摩", "instruction": "稀釋後塗抹於腹部，緩解經痛不適。"}
+      {
+        "method": "擴香",
+        "instruction": "每月經期前後擴香，有助緩解情緒波動。"
+      },
+      {
+        "method": "護膚",
+        "instruction": "稀釋至 1% 後加入保濕乳液，適合各種膚質。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋後塗抹於腹部，緩解經痛不適。"
+      }
     ],
     "precautions": "孕婦謹慎使用。一般成人安全使用。",
-    "blends_well": [1, 6, 10, 11],
+    "blends_well": [
+      1,
+      6,
+      10,
+      11
+    ],
     "aroma_profile": "花香、草本、清新",
     "intensity": 6,
     "image_url": null,
@@ -380,14 +709,34 @@
     "plant_part": "花頂和葉片",
     "origin": "俄羅斯、法國",
     "description": "快樂鼠尾草精油以其強烈的雌激素類似作用著稱，是女性健康的守護精油。它能有效緩解更年期症狀、調節月經週期，並有助於分娩時緩解宮縮疼痛。",
-    "main_effects": ["調節月經", "緩解更年期", "抗憂鬱", "放鬆肌肉", "助眠"],
+    "main_effects": [
+      "調節月經",
+      "緩解更年期",
+      "抗憂鬱",
+      "放鬆肌肉",
+      "助眠"
+    ],
     "usage_methods": [
-      {"method": "按摩", "instruction": "稀釋後按摩腹部和下背部，緩解月經不適。"},
-      {"method": "擴香", "instruction": "加入 2-3 滴，緩解更年期引起的情緒問題。"},
-      {"method": "沐浴", "instruction": "加入 4-5 滴到溫水浴缸，舒緩身心疲勞。"}
+      {
+        "method": "按摩",
+        "instruction": "稀釋後按摩腹部和下背部，緩解月經不適。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 2-3 滴，緩解更年期引起的情緒問題。"
+      },
+      {
+        "method": "沐浴",
+        "instruction": "加入 4-5 滴到溫水浴缸，舒緩身心疲勞。"
+      }
     ],
     "precautions": "孕婦禁止使用。服用荷爾蒙藥物者請先諮詢醫師。飲酒後避免使用，可能加深醉意。",
-    "blends_well": [1, 11, 16, 18],
+    "blends_well": [
+      1,
+      11,
+      16,
+      18
+    ],
     "aroma_profile": "草本、堅果、清新",
     "intensity": 7,
     "image_url": null,
@@ -403,14 +752,34 @@
     "plant_part": "樹脂",
     "origin": "索馬利亞、衣索比亞",
     "description": "沒藥精油擁有深邃的大地和樹脂氣息，是古老的藥用和靈性精油。它在護膚方面效果卓越，特別適合老化、乾燥和受損肌膚。沒藥也有強效的消炎和口腔護理功效。",
-    "main_effects": ["護膚修復", "口腔護理", "消炎抗菌", "冥想助力", "傷口癒合"],
+    "main_effects": [
+      "護膚修復",
+      "口腔護理",
+      "消炎抗菌",
+      "冥想助力",
+      "傷口癒合"
+    ],
     "usage_methods": [
-      {"method": "護膚", "instruction": "稀釋至 0.5% 後加入面霜，修復乾燥和成熟肌膚。"},
-      {"method": "口腔", "instruction": "一滴沒藥精油滴入水中漱口，有助口腔健康（勿吞嚥）。"},
-      {"method": "冥想", "instruction": "與乳香搭配擴香，創造深度靜心的氛圍。"}
+      {
+        "method": "護膚",
+        "instruction": "稀釋至 0.5% 後加入面霜，修復乾燥和成熟肌膚。"
+      },
+      {
+        "method": "口腔",
+        "instruction": "一滴沒藥精油滴入水中漱口，有助口腔健康（勿吞嚥）。"
+      },
+      {
+        "method": "冥想",
+        "instruction": "與乳香搭配擴香，創造深度靜心的氛圍。"
+      }
     ],
     "precautions": "孕婦禁止使用，有可能引發宮縮。糖尿病患者謹慎使用。勿大量口服。",
-    "blends_well": [7, 14, 16, 19],
+    "blends_well": [
+      7,
+      14,
+      16,
+      19
+    ],
     "aroma_profile": "深沉、大地、樹脂",
     "intensity": 6,
     "image_url": null,
@@ -426,14 +795,34 @@
     "plant_part": "木材",
     "origin": "印度、澳洲",
     "description": "檀香精油有著溫暖、奶油般的木質香氣，是最受歡迎的靈修精油之一。它能帶來深度平靜感，有助冥想和靈性修行。在護膚方面，檀香能有效保濕、抗老和提亮膚色。",
-    "main_effects": ["深度冥想", "靜心安神", "護膚抗老", "催情", "緩解焦慮"],
+    "main_effects": [
+      "深度冥想",
+      "靜心安神",
+      "護膚抗老",
+      "催情",
+      "緩解焦慮"
+    ],
     "usage_methods": [
-      {"method": "擴香", "instruction": "冥想或靜心練習時擴香 2-3 滴，深化靈性體驗。"},
-      {"method": "護膚", "instruction": "稀釋至 1% 後加入護膚品，保濕、抗老效果極佳。"},
-      {"method": "按摩", "instruction": "稀釋後用於按摩，緩解壓力和促進睡眠。"}
+      {
+        "method": "擴香",
+        "instruction": "冥想或靜心練習時擴香 2-3 滴，深化靈性體驗。"
+      },
+      {
+        "method": "護膚",
+        "instruction": "稀釋至 1% 後加入護膚品，保濕、抗老效果極佳。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋後用於按摩，緩解壓力和促進睡眠。"
+      }
     ],
     "precautions": "一般安全。孕婦謹慎使用。注意可持續來源的檀香，避免購買瀕危品種。",
-    "blends_well": [7, 12, 14, 18],
+    "blends_well": [
+      7,
+      12,
+      14,
+      18
+    ],
     "aroma_profile": "木質、奶油、溫暖",
     "intensity": 5,
     "image_url": null,
@@ -449,16 +838,1322 @@
     "plant_part": "整株",
     "origin": "埃及、法國",
     "description": "甜馬鬱蘭精油是溫暖舒緩的草本精油，對肌肉酸痛和呼吸系統問題特別有效。它也有助於緩解孤獨感和悲傷情緒，被稱為「撫慰心靈的精油」。對高血壓和睡眠問題也有良好效果。",
-    "main_effects": ["緩解肌肉疼痛", "降低血壓", "助眠", "緩解悲傷", "改善呼吸"],
+    "main_effects": [
+      "緩解肌肉疼痛",
+      "降低血壓",
+      "助眠",
+      "緩解悲傷",
+      "改善呼吸"
+    ],
     "usage_methods": [
-      {"method": "按摩", "instruction": "稀釋至 2% 後，按摩緊繃或疼痛的肌肉。"},
-      {"method": "擴香", "instruction": "睡前擴香或情緒低落時使用，溫暖撫慰心靈。"},
-      {"method": "熱敷", "instruction": "在熱水中加入 2-3 滴製成熱敷布，敷於痠痛部位。"}
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 2% 後，按摩緊繃或疼痛的肌肉。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "睡前擴香或情緒低落時使用，溫暖撫慰心靈。"
+      },
+      {
+        "method": "熱敷",
+        "instruction": "在熱水中加入 2-3 滴製成熱敷布，敷於痠痛部位。"
+      }
     ],
     "precautions": "孕婦避免使用。低血壓患者謹慎使用。駕車前避免大量使用（具鎮靜效果）。",
-    "blends_well": [1, 4, 8, 13],
+    "blends_well": [
+      1,
+      4,
+      8,
+      13
+    ],
     "aroma_profile": "草本、溫暖、微辣",
     "intensity": 6,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 21,
+    "chinese_name": "萊姆",
+    "english_name": "Lime",
+    "latin_name": "Citrus aurantifolia",
+    "category": "柑橘類",
+    "extraction_method": "冷壓法",
+    "plant_part": "果皮",
+    "origin": "墨西哥、印度",
+    "description": "萊姆精油帶有清新銳利的柑橘香氣，比檸檬更為活潑刺激。它能有效提振精神、淨化環境，並具有良好的抗菌性質。在情緒方面，萊姆精油有助於帶來清爽感和積極正向的心態。",
+    "main_effects": [
+      "提振精神",
+      "抗菌淨化",
+      "清新空氣",
+      "促進消化",
+      "抗憂鬱"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 3-4 滴到擴香器，為空間帶來清爽活力氣息。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1% 後按摩腹部，有助促進消化。"
+      },
+      {
+        "method": "清潔",
+        "instruction": "加入清潔劑中，天然去污除臭效果佳。"
+      }
+    ],
+    "precautions": "具有光敏性，使用後 12 小時內避免陽光直射皮膚。敏感肌膚請高度稀釋後使用。",
+    "blends_well": [
+      2,
+      9,
+      11,
+      15
+    ],
+    "aroma_profile": "清新、柑橘、銳利",
+    "intensity": 7,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 22,
+    "chinese_name": "野薄荷",
+    "english_name": "Spearmint",
+    "latin_name": "Mentha spicata",
+    "category": "草本類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "葉片",
+    "origin": "美國、印度",
+    "description": "野薄荷精油比薄荷更溫和甜美，適合兒童和敏感族群使用。它帶有清甜的薄荷香氣，能有效提振心情、改善消化，並有助於清新口氣。相比薄荷精油，野薄荷的清涼感較溫和，更容易被接受。",
+    "main_effects": [
+      "溫和提神",
+      "促進消化",
+      "清新口氣",
+      "緩解噁心",
+      "提振心情"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 3-4 滴擴香，適合兒童房間使用。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋後按摩腹部，緩解消化不適和脹氣。"
+      },
+      {
+        "method": "吸嗅",
+        "instruction": "直接嗅聞或加入個人吸嗅棒，緩解暈車噁心感。"
+      }
+    ],
+    "precautions": "比薄荷溫和，但仍建議 2 歲以下幼兒避免使用。孕婦謹慎使用。",
+    "blends_well": [
+      4,
+      9,
+      2,
+      13
+    ],
+    "aroma_profile": "清甜、薄荷、溫和",
+    "intensity": 6,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 23,
+    "chinese_name": "丁香",
+    "english_name": "Clove",
+    "latin_name": "Syzygium aromaticum",
+    "category": "辛香類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "花苞",
+    "origin": "印尼、馬達加斯加",
+    "description": "丁香精油是最強效的天然抗氧化和抗菌精油之一。它擁有濃烈溫暖的辛香氣味，在口腔護理方面有卓越效果，尤其對牙痛有即時止痛效果。丁香也是增強免疫系統的重要精油。",
+    "main_effects": [
+      "強效抗菌",
+      "止牙痛",
+      "增強免疫",
+      "抗氧化",
+      "驅蟲"
+    ],
+    "usage_methods": [
+      {
+        "method": "口腔護理",
+        "instruction": "極度稀釋（0.5%以下）後，用棉花棒點塗牙齦，緩解牙痛。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "少量使用 1-2 滴，可與柑橘類精油調和，增強免疫防護。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "高度稀釋至 0.5% 以下，按摩胸口幫助呼吸道健康。"
+      }
+    ],
+    "precautions": "刺激性強，必須高度稀釋（建議 0.5% 以下）。孕婦和兒童避免使用。可能影響血液凝固，服用抗凝血藥物者請諮詢醫師。",
+    "blends_well": [
+      2,
+      7,
+      24,
+      25
+    ],
+    "aroma_profile": "辛辣、溫暖、濃烈",
+    "intensity": 9,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 24,
+    "chinese_name": "肉桂葉",
+    "english_name": "Cinnamon Leaf",
+    "latin_name": "Cinnamomum verum",
+    "category": "辛香類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "葉片",
+    "origin": "斯里蘭卡、印度",
+    "description": "肉桂葉精油帶有溫暖甜美的辛香氣味，能有效促進血液循環、增強免疫力。它比肉桂皮精油溫和，但仍需稀釋使用。肉桂精油在秋冬季節特別受歡迎，能帶來溫暖的節日氛圍。",
+    "main_effects": [
+      "促進循環",
+      "增強免疫",
+      "抗菌抗病毒",
+      "暖身驅寒",
+      "提振精神"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "秋冬季節加入 2-3 滴，與甜橙或丁香調和，帶來溫暖氛圍。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "極度稀釋至 0.5% 後，按摩四肢促進血液循環。"
+      },
+      {
+        "method": "居家清潔",
+        "instruction": "加入清潔噴霧中，天然抗菌效果佳。"
+      }
+    ],
+    "precautions": "強烈刺激性，必須高度稀釋（0.5-1% 以下）。孕婦、兒童和敏感肌膚者避免使用。",
+    "blends_well": [
+      2,
+      7,
+      23,
+      25
+    ],
+    "aroma_profile": "辛甜、溫暖、香料",
+    "intensity": 8,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 25,
+    "chinese_name": "生薑",
+    "english_name": "Ginger",
+    "latin_name": "Zingiber officinale",
+    "category": "辛香類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "根部",
+    "origin": "印度、中國",
+    "description": "生薑精油帶有溫暖辛辣的根莖香氣，是緩解消化問題和暈動症的最佳精油之一。它能有效促進血液循環、緩解肌肉和關節疼痛，在寒冷天氣中特別有助於驅寒暖身。",
+    "main_effects": [
+      "緩解噁心",
+      "促進消化",
+      "緩解關節痛",
+      "暖身驅寒",
+      "促進循環"
+    ],
+    "usage_methods": [
+      {
+        "method": "吸嗅",
+        "instruction": "出行前嗅聞，有效預防暈車暈船。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 2% 後，按摩關節或肌肉疼痛部位。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "冬季加入 2-3 滴擴香，帶來溫暖感受。"
+      }
+    ],
+    "precautions": "可能造成皮膚刺激，建議稀釋至 1-2%。孕婦前三個月謹慎使用。",
+    "blends_well": [
+      2,
+      9,
+      23,
+      24
+    ],
+    "aroma_profile": "辛辣、溫暖、根莖",
+    "intensity": 7,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 26,
+    "chinese_name": "黑胡椒",
+    "english_name": "Black Pepper",
+    "latin_name": "Piper nigrum",
+    "category": "辛香類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "果實",
+    "origin": "印度、斯里蘭卡",
+    "description": "黑胡椒精油帶有溫暖辛辣的胡椒氣味，是促進血液循環的強效精油。它對於戒菸有輔助效果，研究顯示嗅聞黑胡椒精油可有效減少尼古丁渴望。運動前後使用能幫助肌肉暖身和恢復。",
+    "main_effects": [
+      "促進循環",
+      "緩解肌肉疼痛",
+      "輔助戒菸",
+      "提振能量",
+      "消化促進"
+    ],
+    "usage_methods": [
+      {
+        "method": "運動按摩",
+        "instruction": "稀釋至 2% 後，運動前按摩肌肉暖身，或運動後緩解酸痛。"
+      },
+      {
+        "method": "吸嗅",
+        "instruction": "想吸菸時嗅聞，有助減少尼古丁渴望。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "與柑橘類調和，提振能量和注意力。"
+      }
+    ],
+    "precautions": "可能刺激皮膚，需稀釋使用。避免接觸眼睛和黏膜。孕婦謹慎使用。",
+    "blends_well": [
+      2,
+      9,
+      7,
+      25
+    ],
+    "aroma_profile": "辛辣、溫暖、胡椒",
+    "intensity": 7,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 27,
+    "chinese_name": "百里香",
+    "english_name": "Thyme",
+    "latin_name": "Thymus vulgaris",
+    "category": "草本類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "葉片和花頂",
+    "origin": "西班牙、法國",
+    "description": "百里香精油是強效的天然抗菌精油，對呼吸道感染和免疫支持特別有效。它含有豐富的百里酚，具有卓越的抗菌、抗真菌和抗病毒特性。在傳統醫學中被廣泛用於感冒、咳嗽和支氣管炎的治療。",
+    "main_effects": [
+      "強效抗菌",
+      "增強免疫",
+      "緩解咳嗽",
+      "消炎",
+      "護理頭皮"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "感冒季節加入 2-3 滴，淨化空氣並支持呼吸道健康。"
+      },
+      {
+        "method": "蒸氣吸嗅",
+        "instruction": "加入熱水碗中，覆頭巾吸嗅蒸氣，緩解鼻塞和咳嗽。"
+      },
+      {
+        "method": "頭皮按摩",
+        "instruction": "高度稀釋後按摩頭皮，改善脂漏性皮膚炎。"
+      }
+    ],
+    "precautions": "刺激性較強，需充分稀釋。孕婦、高血壓患者避免使用。嬰幼兒避免使用。",
+    "blends_well": [
+      3,
+      5,
+      13,
+      9
+    ],
+    "aroma_profile": "草本、辛辣、藥草",
+    "intensity": 8,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 28,
+    "chinese_name": "羅勒",
+    "english_name": "Basil",
+    "latin_name": "Ocimum basilicum",
+    "category": "草本類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "葉片和花頂",
+    "origin": "法國、印度",
+    "description": "羅勒精油帶有清新甜美的草本香氣，是提升精神集中度和緩解肌肉痙攣的重要精油。它對偏頭痛有特別良好的緩解效果，也有助於緩解消化痙攣和月經不適。",
+    "main_effects": [
+      "緩解偏頭痛",
+      "提升專注",
+      "緩解肌肉痙攣",
+      "抗菌",
+      "促進消化"
+    ],
+    "usage_methods": [
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1-2% 後，按摩太陽穴或後頸，緩解偏頭痛。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "工作時擴香 2-3 滴，提升專注力和思維清晰度。"
+      },
+      {
+        "method": "熱敷",
+        "instruction": "加入熱水製成熱敷布，敷於腹部緩解痙攣。"
+      }
+    ],
+    "precautions": "孕婦避免使用。癲癇患者謹慎使用。嬰幼兒避免使用。",
+    "blends_well": [
+      4,
+      13,
+      9,
+      1
+    ],
+    "aroma_profile": "清新、草本、甜美",
+    "intensity": 7,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 29,
+    "chinese_name": "茴香",
+    "english_name": "Fennel",
+    "latin_name": "Foeniculum vulgare",
+    "category": "草本類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "種子",
+    "origin": "法國、印度",
+    "description": "茴香精油帶有獨特的甜茴香香氣，對消化系統問題有卓越的緩解效果，特別是脹氣、腸絞痛和消化不良。它也具有類似雌激素的特性，對女性生理問題有一定幫助。",
+    "main_effects": [
+      "緩解脹氣",
+      "促進消化",
+      "利尿消腫",
+      "平衡荷爾蒙",
+      "緩解腸絞痛"
+    ],
+    "usage_methods": [
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1-2% 後順時針方向按摩腹部，緩解消化不適。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 2-3 滴，有助消化並帶來放鬆感受。"
+      },
+      {
+        "method": "熱敷",
+        "instruction": "稀釋後加入熱水，熱敷腹部緩解腸絞痛。"
+      }
+    ],
+    "precautions": "孕婦禁止使用。癲癇患者避免使用。嬰幼兒避免使用。雌激素相關疾病患者請先諮詢醫師。",
+    "blends_well": [
+      25,
+      9,
+      16,
+      17
+    ],
+    "aroma_profile": "甜茴香、草本、清新",
+    "intensity": 7,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 30,
+    "chinese_name": "德國洋甘菊",
+    "english_name": "German Chamomile",
+    "latin_name": "Matricaria chamomilla",
+    "category": "花香類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "花朵",
+    "origin": "德國、匈牙利",
+    "description": "德國洋甘菊精油呈深藍色，含有豐富的甘菊藍烯，具有卓越的消炎和抗過敏效果。它比羅馬洋甘菊的消炎能力更強，特別適合處理皮膚炎症、濕疹和過敏性皮膚問題。",
+    "main_effects": [
+      "強效消炎",
+      "抗過敏",
+      "修復皮膚",
+      "緩解濕疹",
+      "止癢"
+    ],
+    "usage_methods": [
+      {
+        "method": "局部塗抹",
+        "instruction": "稀釋至 1% 後，塗抹於發炎、過敏或濕疹部位。"
+      },
+      {
+        "method": "冷敷",
+        "instruction": "加入冷水製成冷敷布，緩解皮膚紅腫和過敏反應。"
+      },
+      {
+        "method": "沐浴",
+        "instruction": "加入 3-4 滴到溫水浴缸，舒緩全身皮膚問題。"
+      }
+    ],
+    "precautions": "菊科過敏者請謹慎使用。一般情況下安全，但仍建議稀釋使用。孕婦前三個月避免使用。",
+    "blends_well": [
+      1,
+      10,
+      6,
+      16
+    ],
+    "aroma_profile": "草本、花香、微苦",
+    "intensity": 5,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 31,
+    "chinese_name": "橙花",
+    "english_name": "Neroli",
+    "latin_name": "Citrus aurantium",
+    "category": "花香類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "苦橙花朵",
+    "origin": "突尼西亞、摩洛哥",
+    "description": "橙花精油是最珍貴的花香精油之一，需要大量苦橙花才能萃取少量精油。它帶有細緻甜美的花香，對於焦慮、恐慌和憂鬱有卓越的舒緩效果，也是抗衰老護膚的頂級選擇。",
+    "main_effects": [
+      "緩解焦慮恐慌",
+      "抗憂鬱",
+      "護膚抗老",
+      "促進細胞再生",
+      "穩定心律"
+    ],
+    "usage_methods": [
+      {
+        "method": "吸嗅",
+        "instruction": "焦慮或恐慌發作時直接嗅聞，迅速穩定情緒。"
+      },
+      {
+        "method": "護膚",
+        "instruction": "稀釋至 1% 後加入面霜，促進細胞再生，淡化疤痕和妊娠紋。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 2-3 滴，創造寧靜優雅的氛圍。"
+      }
+    ],
+    "precautions": "一般安全，適合大多數人使用。孕婦使用需注意劑量。注意購買正品，市售常有稀釋品。",
+    "blends_well": [
+      6,
+      1,
+      11,
+      19
+    ],
+    "aroma_profile": "精緻、花香、柑橘",
+    "intensity": 6,
+    "image_url": null,
+    "is_featured": true
+  },
+  {
+    "id": 32,
+    "chinese_name": "茉莉",
+    "english_name": "Jasmine",
+    "latin_name": "Jasminum grandiflorum",
+    "category": "花香類",
+    "extraction_method": "溶劑萃取法",
+    "plant_part": "花朵",
+    "origin": "印度、埃及",
+    "description": "茉莉精油擁有濃郁迷人的花香，被譽為「夜晚的女王」。它是著名的催情精油，也對產後憂鬱和自信心提升有顯著幫助。茉莉需要在夜晚手工採摘，因此非常珍貴。",
+    "main_effects": [
+      "催情",
+      "抗憂鬱",
+      "增強自信",
+      "緩解分娩疼痛",
+      "護膚保濕"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 2-3 滴，創造浪漫迷人的氛圍。"
+      },
+      {
+        "method": "護膚",
+        "instruction": "稀釋至 0.5-1% 後加入面霜，保濕滋養敏感和乾燥肌膚。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋後按摩，有助緩解憂鬱和增強自信。"
+      }
+    ],
+    "precautions": "孕期前三個月避免使用（但分娩時可使用以緩解疼痛）。注意購買純正精油，假貨較多。",
+    "blends_well": [
+      6,
+      12,
+      19,
+      31
+    ],
+    "aroma_profile": "濃郁、甜花、異國",
+    "intensity": 8,
+    "image_url": null,
+    "is_featured": true
+  },
+  {
+    "id": 33,
+    "chinese_name": "香根草",
+    "english_name": "Vetiver",
+    "latin_name": "Vetiveria zizanioides",
+    "category": "土質類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "根部",
+    "origin": "印度、海地",
+    "description": "香根草精油有著深沉的土質和木質香氣，被稱為「寧靜之油」。它是最有效的接地和穩定情緒的精油之一，對於注意力缺陷、過度焦慮和創傷後壓力症候群有顯著幫助。",
+    "main_effects": [
+      "深度接地",
+      "穩定情緒",
+      "助眠",
+      "緩解 ADHD",
+      "抗焦慮"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "睡前加入 1-2 滴（氣味濃烈，少量即可），帶來深度放鬆。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋後按摩脊椎兩側或腳底，有接地穩定的效果。"
+      },
+      {
+        "method": "沐浴",
+        "instruction": "加入 2-3 滴到浴缸，舒緩神經系統。"
+      }
+    ],
+    "precautions": "一般安全。孕婦謹慎使用。氣味濃烈持久，少量使用即可。",
+    "blends_well": [
+      7,
+      14,
+      19,
+      8
+    ],
+    "aroma_profile": "大地、木質、深沉",
+    "intensity": 6,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 34,
+    "chinese_name": "永久花",
+    "english_name": "Helichrysum",
+    "latin_name": "Helichrysum italicum",
+    "category": "花香類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "花朵",
+    "origin": "科西嘉島、克羅埃西亞",
+    "description": "永久花精油被芳療師稱為「神奇治癒精油」，對瘀傷、疤痕和皮膚損傷有驚人的修復效果。它是最貴的精油之一，具有強效的消炎、止痛和細胞再生功效，對各種皮膚問題都有顯著改善。",
+    "main_effects": [
+      "消除瘀傷",
+      "淡化疤痕",
+      "止痛消炎",
+      "促進細胞再生",
+      "保護神經"
+    ],
+    "usage_methods": [
+      {
+        "method": "局部塗抹",
+        "instruction": "稀釋至 1-3% 後，直接塗抹於瘀傷、疤痕或傷口（已癒合）處。"
+      },
+      {
+        "method": "護膚",
+        "instruction": "加入面霜或精華，每日使用有效淡化疤痕和改善肌膚。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋後按摩疼痛部位，消炎止痛效果顯著。"
+      }
+    ],
+    "precautions": "一般安全。孕婦謹慎使用。注意購買真品，市場上稀釋品較多。",
+    "blends_well": [
+      1,
+      6,
+      7,
+      30
+    ],
+    "aroma_profile": "花香、草本、蜂蜜",
+    "intensity": 5,
+    "image_url": null,
+    "is_featured": true
+  },
+  {
+    "id": 35,
+    "chinese_name": "絲柏",
+    "english_name": "Cypress",
+    "latin_name": "Cupressus sempervirens",
+    "category": "木質類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "針葉和嫩枝",
+    "origin": "西班牙、法國",
+    "description": "絲柏精油帶有清新的木質和草本香氣，是促進循環和消除水腫的重要精油。它特別有助於改善靜脈曲張、蜘蛛網狀靜脈和腿部沉重感。也是調節油性肌膚和過多排汗的好幫手。",
+    "main_effects": [
+      "改善靜脈曲張",
+      "消除水腫",
+      "收斂控油",
+      "促進循環",
+      "止咳"
+    ],
+    "usage_methods": [
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 2% 後，由下往上按摩腿部，改善靜脈曲張和水腫。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 3-4 滴，清新空氣並有助呼吸順暢。"
+      },
+      {
+        "method": "沐浴",
+        "instruction": "加入 4-5 滴到冷水浴缸，收斂和緊緻肌膚。"
+      }
+    ],
+    "precautions": "孕婦謹慎使用。一般成人安全使用。",
+    "blends_well": [
+      8,
+      9,
+      15,
+      13
+    ],
+    "aroma_profile": "清新、木質、草本",
+    "intensity": 6,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 36,
+    "chinese_name": "杜松莓",
+    "english_name": "Juniper Berry",
+    "latin_name": "Juniperus communis",
+    "category": "木質類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "果實",
+    "origin": "法國、保加利亞",
+    "description": "杜松莓精油帶有清新、木質和微微辛辣的香氣，是著名的排毒和淨化精油。它能有效促進腎臟功能、排除體內毒素，並對關節炎和痛風有緩解效果。在情緒方面能幫助清除負面情緒。",
+    "main_effects": [
+      "排毒淨化",
+      "利尿消腫",
+      "緩解關節炎",
+      "抗菌",
+      "淨化情緒"
+    ],
+    "usage_methods": [
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 2% 後，按摩關節疼痛部位或腎臟區域。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 3-4 滴，淨化空間能量，清除負面情緒。"
+      },
+      {
+        "method": "沐浴",
+        "instruction": "加入 4-5 滴到浴缸，促進排毒和放鬆肌肉。"
+      }
+    ],
+    "precautions": "腎臟疾病患者禁止使用。孕婦禁止使用。長期或大量使用可能傷害腎臟。",
+    "blends_well": [
+      8,
+      35,
+      9,
+      15
+    ],
+    "aroma_profile": "清新、木質、辛辣",
+    "intensity": 6,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 37,
+    "chinese_name": "松樹",
+    "english_name": "Pine",
+    "latin_name": "Pinus sylvestris",
+    "category": "木質類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "針葉",
+    "origin": "芬蘭、俄羅斯",
+    "description": "松樹精油帶有清新振奮的森林氣息，是呼吸道問題和肌肉疼痛的傳統療方。它能有效疏通鼻塞、緩解關節炎，並有助於提升自信和內在力量。使用松樹精油擴香彷彿置身大自然中。",
+    "main_effects": [
+      "疏通鼻塞",
+      "緩解關節疼痛",
+      "抗菌",
+      "提振精神",
+      "消除疲勞"
+    ],
+    "usage_methods": [
+      {
+        "method": "蒸氣吸嗅",
+        "instruction": "加入熱水碗，吸嗅蒸氣 5-10 分鐘，疏通呼吸道。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 3-4 滴，帶來清新森林氣息，提振精神。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 2% 後按摩疼痛關節，緩解炎症。"
+      }
+    ],
+    "precautions": "可能造成皮膚刺激，需稀釋使用。孕婦謹慎使用。嬰幼兒避免使用。",
+    "blends_well": [
+      5,
+      35,
+      8,
+      36
+    ],
+    "aroma_profile": "清新、森林、木質",
+    "intensity": 7,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 38,
+    "chinese_name": "奧勒岡",
+    "english_name": "Oregano",
+    "latin_name": "Origanum vulgare",
+    "category": "草本類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "葉片和花頂",
+    "origin": "土耳其、希臘",
+    "description": "奧勒岡精油是最強效的天然抗菌精油之一，含有高濃度的香芹酚，對抗頑固細菌和真菌的效果卓越。它被稱為「天然抗生素」，在感冒季節和感染防護方面有重要作用。",
+    "main_effects": [
+      "強效抗菌",
+      "抗真菌",
+      "增強免疫",
+      "抗病毒",
+      "消炎"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "感冒季節加入 2-3 滴，淨化空氣和增強防護。"
+      },
+      {
+        "method": "局部塗抹",
+        "instruction": "極度稀釋（1% 以下）後，塗抹於真菌感染部位。"
+      },
+      {
+        "method": "足浴",
+        "instruction": "加入 2-3 滴到熱水足浴，有助改善足癬。"
+      }
+    ],
+    "precautions": "強烈刺激性，必須高度稀釋（1% 以下）。孕婦、兒童避免使用。可能與某些藥物相互作用，請先諮詢醫師。",
+    "blends_well": [
+      3,
+      27,
+      5,
+      24
+    ],
+    "aroma_profile": "草本、辛辣、溫暖",
+    "intensity": 9,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 39,
+    "chinese_name": "芫荽",
+    "english_name": "Coriander",
+    "latin_name": "Coriandrum sativum",
+    "category": "草本類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "種子",
+    "origin": "印度、烏克蘭",
+    "description": "芫荽精油帶有溫暖甜美的香料氣息，與香菜葉的氣味截然不同。它能有效促進消化、緩解腹部不適，並有助於血糖調節。在情緒方面能帶來溫暖和被支持的感受。",
+    "main_effects": [
+      "促進消化",
+      "緩解脹氣",
+      "輔助血糖調節",
+      "抗菌",
+      "舒緩情緒"
+    ],
+    "usage_methods": [
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 2% 後按摩腹部，促進消化和緩解脹氣。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 2-3 滴，帶來溫暖舒適的氛圍。"
+      },
+      {
+        "method": "沐浴",
+        "instruction": "加入 4-5 滴到溫水浴缸，舒緩肌肉疲勞。"
+      }
+    ],
+    "precautions": "一般安全，但建議稀釋使用。孕婦謹慎使用。",
+    "blends_well": [
+      25,
+      2,
+      9,
+      28
+    ],
+    "aroma_profile": "溫暖、香料、甜美",
+    "intensity": 6,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 40,
+    "chinese_name": "安息香",
+    "english_name": "Benzoin",
+    "latin_name": "Styrax benzoin",
+    "category": "樹脂類",
+    "extraction_method": "溶劑萃取法",
+    "plant_part": "樹脂",
+    "origin": "印尼、泰國",
+    "description": "安息香精油帶有溫暖甜美的香草和焦糖氣息，能帶來溫暖、安慰和被接納的感受。它是優秀的皮膚修護精油，特別適合乾燥、龜裂和受損的皮膚。也常作為天然定香劑使用。",
+    "main_effects": [
+      "舒緩安慰",
+      "護膚修復",
+      "消炎",
+      "止咳",
+      "定香"
+    ],
+    "usage_methods": [
+      {
+        "method": "護膚",
+        "instruction": "稀釋至 1-2% 後加入護膚霜，修復乾燥龜裂皮膚。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 2-3 滴，帶來溫暖舒適的甜香氛圍。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋後按摩於胸口，緩解咳嗽和呼吸道不適。"
+      }
+    ],
+    "precautions": "一般安全，但可能引起某些人過敏。稀釋使用。孕婦謹慎使用。",
+    "blends_well": [
+      7,
+      18,
+      1,
+      6
+    ],
+    "aroma_profile": "甜美、香草、溫暖",
+    "intensity": 6,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 41,
+    "chinese_name": "冬青",
+    "english_name": "Wintergreen",
+    "latin_name": "Gaultheria procumbens",
+    "category": "草本類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "葉片",
+    "origin": "中國、尼泊爾",
+    "description": "冬青精油含有高達 98% 的水楊酸甲酯，是最強效的天然止痛和消炎精油之一。它帶有清涼的冬青糖香氣，對肌肉疼痛、關節炎和運動傷害有即時且顯著的緩解效果。",
+    "main_effects": [
+      "強效止痛",
+      "消炎",
+      "緩解關節炎",
+      "肌肉放鬆",
+      "改善循環"
+    ],
+    "usage_methods": [
+      {
+        "method": "按摩",
+        "instruction": "高度稀釋（1% 以下）後，塗抹於疼痛部位，切勿大面積使用。"
+      },
+      {
+        "method": "熱敷",
+        "instruction": "稀釋後加入熱水，熱敷疼痛關節。"
+      }
+    ],
+    "precautions": "高度危險精油，必須極度稀釋（1% 以下）。阿斯匹靈過敏者禁止使用。孕婦、兒童、老人禁止使用。服用抗凝血藥物者禁止使用。切勿口服，可能致命。",
+    "blends_well": [
+      4,
+      13,
+      26,
+      37
+    ],
+    "aroma_profile": "清涼、冬青糖、清新",
+    "intensity": 9,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 42,
+    "chinese_name": "苦橙葉",
+    "english_name": "Petitgrain",
+    "latin_name": "Citrus aurantium",
+    "category": "柑橘類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "葉片和嫩枝",
+    "origin": "巴拉圭、法國",
+    "description": "苦橙葉精油是從苦橙樹的葉片和嫩枝萃取，帶有清新的柑橘和木質草本香氣。它是橙花精油的親民替代品，對情緒平衡、焦慮和睡眠問題有良好效果。",
+    "main_effects": [
+      "平衡情緒",
+      "緩解焦慮",
+      "助眠",
+      "控油收斂",
+      "抗憂鬱"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 3-4 滴，平衡情緒並帶來清新感受。"
+      },
+      {
+        "method": "護膚",
+        "instruction": "稀釋至 1% 後加入乳液，適合油性和痘痘肌膚。"
+      },
+      {
+        "method": "沐浴",
+        "instruction": "加入 5-6 滴到浴缸，放鬆身心，改善睡眠。"
+      }
+    ],
+    "precautions": "一般安全，低致敏性。孕婦謹慎使用。無光敏性。",
+    "blends_well": [
+      1,
+      11,
+      31,
+      2
+    ],
+    "aroma_profile": "清新、柑橘、木質",
+    "intensity": 5,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 43,
+    "chinese_name": "玫瑰草",
+    "english_name": "Palmarosa",
+    "latin_name": "Cymbopogon martinii",
+    "category": "草本類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "草葉",
+    "origin": "印度、尼泊爾",
+    "description": "玫瑰草精油帶有清新甜美的玫瑰和草本香氣，是護膚的超值選擇，常被稱為「平價玫瑰」。它能有效平衡皮脂分泌、促進細胞再生，適合各種膚質使用，尤其對受損和老化肌膚效果顯著。",
+    "main_effects": [
+      "平衡皮脂",
+      "促進細胞再生",
+      "抗菌護膚",
+      "保濕滋養",
+      "抗老化"
+    ],
+    "usage_methods": [
+      {
+        "method": "護膚",
+        "instruction": "稀釋至 1-2% 後加入面霜或精華，適合日常護膚。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 3-4 滴，帶來清新花香氛圍。"
+      },
+      {
+        "method": "護髮",
+        "instruction": "加入 2-3 滴到護髮品中，改善頭皮健康。"
+      }
+    ],
+    "precautions": "一般安全，低致敏性。孕婦謹慎使用。",
+    "blends_well": [
+      6,
+      16,
+      1,
+      11
+    ],
+    "aroma_profile": "玫瑰、草本、清新",
+    "intensity": 6,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 44,
+    "chinese_name": "檸檬草",
+    "english_name": "Lemongrass",
+    "latin_name": "Cymbopogon citratus",
+    "category": "草本類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "葉片",
+    "origin": "印度、越南",
+    "description": "檸檬草精油帶有濃烈的檸檬草香氣，是驅蟲和淨化環境的首選精油。它能有效驅趕蚊蟲、淨化空氣，並對肌肉疼痛和頭痛有緩解效果。在情緒方面能清除心理疲勞、帶來清醒感。",
+    "main_effects": [
+      "天然驅蟲",
+      "淨化空氣",
+      "緩解肌肉痛",
+      "提神醒腦",
+      "抗菌除臭"
+    ],
+    "usage_methods": [
+      {
+        "method": "驅蟲噴霧",
+        "instruction": "每 100ml 水加入 10-15 滴，噴灑於皮膚（避開眼睛）和環境。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 3-4 滴，驅蟲同時淨化和提振室內氣氛。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1-2% 後按摩疲勞肌肉，緩解疼痛和疲勞感。"
+      }
+    ],
+    "precautions": "可能刺激皮膚，需稀釋使用。孕婦謹慎使用。兒童皮膚使用請高度稀釋。",
+    "blends_well": [
+      9,
+      2,
+      3,
+      5
+    ],
+    "aroma_profile": "清新、檸檬草、強烈",
+    "intensity": 8,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 45,
+    "chinese_name": "月桂葉",
+    "english_name": "Bay Laurel",
+    "latin_name": "Laurus nobilis",
+    "category": "草本類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "葉片",
+    "origin": "克羅埃西亞、法國",
+    "description": "月桂葉精油帶有清新溫暖的辛香和草本氣味，傳統上是勝利和成就的象徵。它能有效增強自信、清除心理障礙，也有良好的呼吸道護理和促進淋巴循環的效果。",
+    "main_effects": [
+      "增強自信",
+      "促進淋巴循環",
+      "呼吸道護理",
+      "抗菌",
+      "舒緩風濕痛"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 2-3 滴，增強自信和勇氣，適合重要場合前使用。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1% 後按摩淋巴結部位，促進淋巴引流。"
+      },
+      {
+        "method": "蒸氣吸嗅",
+        "instruction": "加入熱水，吸嗅蒸氣緩解鼻塞和咳嗽。"
+      }
+    ],
+    "precautions": "可能造成皮膚敏感，需稀釋。孕婦和哺乳期婦女避免使用。",
+    "blends_well": [
+      5,
+      13,
+      9,
+      35
+    ],
+    "aroma_profile": "草本、辛香、溫暖",
+    "intensity": 7,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 46,
+    "chinese_name": "花梨木",
+    "english_name": "Rosewood",
+    "latin_name": "Aniba rosaeodora",
+    "category": "木質類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "木材",
+    "origin": "巴西",
+    "description": "花梨木精油帶有溫和甜美的木質和玫瑰香氣，是溫和且全方位的護膚和情緒精油。它能有效平衡身心、增強免疫力，對乾燥老化肌膚有顯著的滋養效果，也是冥想和靈性修練的好選擇。",
+    "main_effects": [
+      "平衡身心",
+      "護膚滋養",
+      "增強免疫",
+      "抗憂鬱",
+      "冥想助力"
+    ],
+    "usage_methods": [
+      {
+        "method": "護膚",
+        "instruction": "稀釋至 1-2% 後加入面霜，適合乾燥和老化肌膚。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 3-4 滴，帶來平靜溫暖的氛圍，適合冥想使用。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋後全身按摩，增強免疫力和平衡能量。"
+      }
+    ],
+    "precautions": "一般安全。注意可持續來源的花梨木，避免購買危及物種的產品。孕婦謹慎使用。",
+    "blends_well": [
+      7,
+      6,
+      19,
+      1
+    ],
+    "aroma_profile": "木質、玫瑰、溫和",
+    "intensity": 5,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 47,
+    "chinese_name": "血橙",
+    "english_name": "Blood Orange",
+    "latin_name": "Citrus sinensis",
+    "category": "柑橘類",
+    "extraction_method": "冷壓法",
+    "plant_part": "果皮",
+    "origin": "義大利、西班牙",
+    "description": "血橙精油比甜橙更為濃郁複雜，帶有甜橙和莓果的混合香氣。它能有效提振情緒、緩解壓力，並具有良好的抗氧化特性。血橙獨特的香氣讓它成為調香中的珍品。",
+    "main_effects": [
+      "提振情緒",
+      "抗氧化",
+      "抗憂鬱",
+      "促進消化",
+      "提升創造力"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 4-5 滴，帶來豐富的柑橘甜香，提振心情。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 2% 後按摩腹部，促進消化和緩解脹氣。"
+      },
+      {
+        "method": "沐浴",
+        "instruction": "加入 5-6 滴到浴缸，享受充滿活力的芳香沐浴。"
+      }
+    ],
+    "precautions": "具輕微光敏性，使用後避免強烈日曬。一般安全，適合大多數人使用。",
+    "blends_well": [
+      2,
+      11,
+      6,
+      32
+    ],
+    "aroma_profile": "甜橙、莓果、複雜",
+    "intensity": 7,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 48,
+    "chinese_name": "白千層",
+    "english_name": "Cajeput",
+    "latin_name": "Melaleuca cajuputi",
+    "category": "樟腦類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "葉片和嫩枝",
+    "origin": "印尼、馬來西亞",
+    "description": "白千層精油是茶樹的近親，帶有清新的樟腦和尤加利香氣。它對呼吸道感染、耳痛和皮膚問題有顯著療效，在東南亞被廣泛用於傳統民間療法，是居家急救箱的必備品。",
+    "main_effects": [
+      "呼吸道護理",
+      "止耳痛",
+      "抗菌消毒",
+      "緩解疼痛",
+      "驅蟲"
+    ],
+    "usage_methods": [
+      {
+        "method": "蒸氣吸嗅",
+        "instruction": "加入熱水碗，吸嗅蒸氣緩解呼吸道症狀。"
+      },
+      {
+        "method": "局部塗抹",
+        "instruction": "稀釋至 2% 後，塗抹於耳朵周圍（非耳道內）緩解耳痛。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 3-4 滴，淨化空氣並支持呼吸道健康。"
+      }
+    ],
+    "precautions": "不適合嬰幼兒臉部使用。稀釋後使用。孕婦謹慎使用。",
+    "blends_well": [
+      3,
+      5,
+      27,
+      4
+    ],
+    "aroma_profile": "清新、樟腦、清潔",
+    "intensity": 7,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 49,
+    "chinese_name": "藍艾菊",
+    "english_name": "Blue Tansy",
+    "latin_name": "Tanacetum annuum",
+    "category": "花香類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "花朵和葉片",
+    "origin": "摩洛哥",
+    "description": "藍艾菊精油呈深邃的靛藍色，含有豐富的甘菊藍烯，是最有效的消炎和抗過敏精油之一。它能有效緩解皮膚紅腫、過敏反應和濕疹，也有助於平靜憤怒情緒和緩解壓力。",
+    "main_effects": [
+      "強效消炎",
+      "抗過敏",
+      "緩解濕疹",
+      "平靜情緒",
+      "止癢"
+    ],
+    "usage_methods": [
+      {
+        "method": "局部塗抹",
+        "instruction": "稀釋至 1-2% 後，塗抹於過敏、發炎或濕疹部位。"
+      },
+      {
+        "method": "護膚",
+        "instruction": "加入面霜，有效舒緩敏感和發紅肌膚。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 1-2 滴（氣味濃烈），平靜憤怒和激動情緒。"
+      }
+    ],
+    "precautions": "菊科過敏者謹慎使用。孕婦避免使用。氣味濃烈，少量使用。",
+    "blends_well": [
+      30,
+      10,
+      1,
+      34
+    ],
+    "aroma_profile": "草本、花香、清新",
+    "intensity": 7,
+    "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 50,
+    "chinese_name": "蒔蘿",
+    "english_name": "Dill",
+    "latin_name": "Anethum graveolens",
+    "category": "草本類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "種子和葉片",
+    "origin": "印度、埃及",
+    "description": "蒔蘿精油帶有清新甜美的草本和茴香香氣，是緩解嬰兒腸絞痛的傳統精油（稀釋後）。它對消化問題、脹氣和痙攣有顯著緩解效果，也有助於促進母乳分泌和調節血糖。",
+    "main_effects": [
+      "緩解腸絞痛",
+      "促進消化",
+      "促進泌乳",
+      "緩解脹氣",
+      "輔助血糖調節"
+    ],
+    "usage_methods": [
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1% 後，順時針按摩腹部緩解脹氣和消化不適。"
+      },
+      {
+        "method": "嬰兒按摩",
+        "instruction": "極度稀釋（0.1-0.5%）後，輕柔按摩嬰兒腹部（請先諮詢醫師）。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 2-3 滴，帶來清新草本氛圍。"
+      }
+    ],
+    "precautions": "嬰幼兒使用必須極度稀釋並先諮詢醫師。孕婦謹慎使用（可促進子宮收縮）。哺乳期一般安全。",
+    "blends_well": [
+      29,
+      39,
+      9,
+      22
+    ],
+    "aroma_profile": "草本、茴香、清甜",
+    "intensity": 5,
     "image_url": null,
     "is_featured": false
   }
