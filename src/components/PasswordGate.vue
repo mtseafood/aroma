@@ -50,7 +50,7 @@ async function verify() {
   error.value = ''
 
   try {
-    const res = await fetch('https://aroma-5lowm6b4i-carterlin0403-6763s-projects.vercel.app/api/verify', {
+    const res = await fetch('https://aroma-seven-sable.vercel.app/api/verify', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ password: password.value })

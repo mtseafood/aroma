@@ -22,7 +22,7 @@ export const useConsultationStore = defineStore('consultation', () => {
     isLoading.value = true
 
     try {
-      const res = await fetch('https://aroma-5lowm6b4i-carterlin0403-6763s-projects.vercel.app/api/consult', {
+      const res = await fetch('https://aroma-seven-sable.vercel.app/api/consult', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ message: text, session_id: sessionId.value })
