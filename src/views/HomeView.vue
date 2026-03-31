@@ -62,6 +62,8 @@ import SearchBar from '@/components/SearchBar.vue'
 import FeaturedCard from '@/components/FeaturedCard.vue'
 
 const router = useRouter()
-const { featuredOils, categories } = storeToRefs(useOilsStore())
+const store = useOilsStore()
+const { featuredOils } = storeToRefs(store)
+const categories = store.categories  // plain array, access directly
 const query = ref('')
 </script>
