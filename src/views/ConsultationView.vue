@@ -1,0 +1,135 @@
+<template>
+  <div class="flex flex-col h-screen">
+    <!-- Header -->
+    <div class="px-4 pt-6 pb-3 bg-white border-b border-gray-100 flex items-center justify-between">
+      <div>
+        <h1 class="text-xl font-bold text-gray-800">AI 精油諮詢 ✨</h1>
+        <p class="text-xs text-gray-400 mt-0.5">描述症狀，獲得個性化推薦</p>
+      </div>
+      <button @click="store.clear()" class="text-xs text-gray-400 px-3 py-1.5 border border-gray-200 rounded-lg">
+        清除
+      </button>
+    </div>
+
+    <!-- Messages -->
+    <div ref="scrollEl" class="flex-1 overflow-y-auto px-4 py-4 space-y-4">
+      <div v-for="msg in store.messages" :key="msg.id">
+        <!-- User -->
+        <div v-if="msg.role === 'user'" class="flex justify-end">
+          <div class="max-w-[80%] bg-primary-500 text-white rounded-2xl rounded-br-sm px-4 py-3 text-sm leading-relaxed">
+            {{ msg.content }}
+          </div>
+        </div>
+
+        <!-- Assistant -->
+        <div v-else class="flex gap-2 items-end">
+          <div class="w-8 h-8 rounded-full bg-primary-50 flex items-center justify-center text-lg flex-shrink-0">🌿</div>
+          <div class="max-w-[85%] space-y-2">
+            <div class="bg-white rounded-2xl rounded-bl-sm px-4 py-3 text-sm text-gray-700 leading-relaxed whitespace-pre-line shadow-sm">
+              {{ msg.content }}
+            </div>
+
+            <!-- Recommendations -->
+            <div v-if="msg.recommendations?.length" class="space-y-2">
+              <div v-for="rec in msg.recommendations" :key="rec.oil_id"
+                class="bg-white rounded-xl p-3 shadow-sm border border-primary-100">
+                <router-link :to="`/oils/${rec.oil_id}`" class="flex items-start justify-between gap-2">
+                  <div class="flex-1">
+                    <span class="font-semibold text-primary-600 text-sm">{{ rec.oil_name }}</span>
+                    <p class="text-xs text-gray-600 mt-0.5 leading-relaxed">{{ rec.reason }}</p>
+                    <p class="text-xs text-gray-400 mt-1">💧 {{ rec.usage }}</p>
+                  </div>
+                  <svg class="w-4 h-4 text-gray-300 flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+                  </svg>
+                </router-link>
+              </div>
+            </div>
+
+            <!-- Precautions -->
+            <div v-if="msg.precautions" class="bg-amber-50 rounded-xl px-3 py-2 text-xs text-amber-700">
+              {{ msg.precautions }}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Typing indicator -->
+      <div v-if="store.isLoading" class="flex gap-2 items-end">
+        <div class="w-8 h-8 rounded-full bg-primary-50 flex items-center justify-center text-lg">🌿</div>
+        <div class="bg-white rounded-2xl rounded-bl-sm px-4 py-3 shadow-sm">
+          <div class="flex gap-1">
+            <span v-for="i in 3" :key="i" class="w-2 h-2 bg-gray-300 rounded-full animate-bounce"
+              :style="{ animationDelay: `${(i-1) * 0.15}s` }"/>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Suggestions (show when fresh) -->
+    <div v-if="store.messages.length <= 1 && !store.isLoading"
+      class="px-4 py-2 border-t border-gray-100 bg-white">
+      <p class="text-xs text-gray-400 mb-2">常見症狀快速選擇：</p>
+      <div class="flex gap-2 overflow-x-auto no-scrollbar pb-1">
+        <button v-for="s in store.suggestedSymptoms" :key="s"
+          @click="sendSuggestion(s)"
+          class="flex-shrink-0 text-xs px-3 py-1.5 bg-primary-50 text-primary-600 rounded-full font-medium">
+          {{ s }}
+        </button>
+      </div>
+    </div>
+
+    <!-- Input -->
+    <div class="px-4 py-3 bg-white border-t border-gray-100 flex gap-2 items-end">
+      <textarea
+        v-model="input"
+        :placeholder="'請描述您的症狀或問題...'"
+        rows="1"
+        class="flex-1 bg-gray-100 rounded-2xl px-4 py-3 text-sm resize-none outline-none focus:ring-2 focus:ring-primary-300 max-h-32"
+        @keydown.enter.exact.prevent="send"
+        @input="autoResize"
+        ref="textareaEl"
+      />
+      <button @click="send"
+        :disabled="!input.trim() || store.isLoading"
+        class="w-11 h-11 rounded-full flex items-center justify-center transition-colors flex-shrink-0"
+        :class="input.trim() ? 'bg-primary-500 text-white' : 'bg-gray-200 text-gray-400'">
+        <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18"/>
+        </svg>
+      </button>
+    </div>
+  </div>
+</template>
+
+<script setup>
+import { ref, watch, nextTick } from 'vue'
+import { useConsultationStore } from '@/stores/consultation'
+
+const store = useConsultationStore()
+const input = ref('')
+const scrollEl = ref(null)
+const textareaEl = ref(null)
+
+async function send() {
+  if (!input.value.trim() || store.isLoading) return
+  const text = input.value.trim()
+  input.value = ''
+  await store.send(text)
+}
+
+function sendSuggestion(s) {
+  input.value = `我有${s}的問題，有哪些精油可以幫助？`
+  send()
+}
+
+function autoResize(e) {
+  e.target.style.height = 'auto'
+  e.target.style.height = Math.min(e.target.scrollHeight, 128) + 'px'
+}
+
+watch(() => store.messages.length, async () => {
+  await nextTick()
+  scrollEl.value?.scrollTo({ top: scrollEl.value.scrollHeight, behavior: 'smooth' })
+})
+</script>
