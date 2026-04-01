@@ -43,7 +43,7 @@
     ],
     "aroma_profile": "清新、花香、草本",
     "intensity": 4,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Single_lavender_flower02.jpg/330px-Single_lavender_flower02.jpg",
     "is_featured": true
   },
   {
@@ -86,7 +86,7 @@
     ],
     "aroma_profile": "甜橙、柑橘、溫暖",
     "intensity": 6,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/OrangeBloss_wb.jpg/330px-OrangeBloss_wb.jpg",
     "is_featured": true
   },
   {
@@ -133,7 +133,7 @@
     ],
     "aroma_profile": "清新、藥草、清潔",
     "intensity": 7,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Melaleuca_alternifolia_flowers.jpg/330px-Melaleuca_alternifolia_flowers.jpg",
     "is_featured": false
   },
   {
@@ -180,7 +180,7 @@
     ],
     "aroma_profile": "清涼、薄荷、清新",
     "intensity": 9,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Pfefferminze_natur_peppermint.jpg/330px-Pfefferminze_natur_peppermint.jpg",
     "is_featured": true
   },
   {
@@ -223,7 +223,7 @@
     ],
     "aroma_profile": "清新、樟腦、草本",
     "intensity": 8,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Eucalyptus_tereticornis_flowers%2C_capsules%2C_buds_and_foliage.jpeg/330px-Eucalyptus_tereticornis_flowers%2C_capsules%2C_buds_and_foliage.jpeg",
     "is_featured": false
   },
   {
@@ -266,7 +266,7 @@
     ],
     "aroma_profile": "濃郁、花香、甜美",
     "intensity": 7,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rosa_rubiginosa_1.jpg/330px-Rosa_rubiginosa_1.jpg",
     "is_featured": true
   },
   {
@@ -309,7 +309,7 @@
     ],
     "aroma_profile": "深沉、樹脂、神聖",
     "intensity": 5,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Frankincense_2005-12-31.jpg/330px-Frankincense_2005-12-31.jpg",
     "is_featured": true
   },
   {
@@ -352,7 +352,7 @@
     ],
     "aroma_profile": "木質、溫暖、深沉",
     "intensity": 5,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cedrus_atlantica.jpg/330px-Cedrus_atlantica.jpg",
     "is_featured": false
   },
   {
@@ -395,7 +395,7 @@
     ],
     "aroma_profile": "清新、柑橘、明亮",
     "intensity": 7,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/P1030323.JPG/330px-P1030323.JPG",
     "is_featured": false
   },
   {
@@ -438,7 +438,7 @@
     ],
     "aroma_profile": "溫柔、花香、草本",
     "intensity": 4,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chamaemelum_nobile.jpg/330px-Chamaemelum_nobile.jpg",
     "is_featured": false
   },
   {
@@ -481,7 +481,7 @@
     ],
     "aroma_profile": "柑橘、花香、清新",
     "intensity": 6,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bergamot_orange_-_whole_and_slice.jpg/330px-Bergamot_orange_-_whole_and_slice.jpg",
     "is_featured": true
   },
   {
@@ -524,7 +524,7 @@
     ],
     "aroma_profile": "濃烈、甜花、異國",
     "intensity": 9,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cananga_odorata_01.JPG/330px-Cananga_odorata_01.JPG",
     "is_featured": false
   },
   {
@@ -567,7 +567,7 @@
     ],
     "aroma_profile": "草本、清新、辛辣",
     "intensity": 8,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Rosemary_in_bloom.JPG/330px-Rosemary_in_bloom.JPG",
     "is_featured": false
   },
   {
@@ -610,7 +610,7 @@
     ],
     "aroma_profile": "大地、木質、甜美",
     "intensity": 7,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Pogostemon_cablin_001.jpg/330px-Pogostemon_cablin_001.jpg",
     "is_featured": false
   },
   {
@@ -653,7 +653,7 @@
     ],
     "aroma_profile": "清新、柑橘、微苦",
     "intensity": 6,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Grapefruits_-_whole-halved-segments.jpg/330px-Grapefruits_-_whole-halved-segments.jpg",
     "is_featured": false
   },
   {
@@ -696,7 +696,7 @@
     ],
     "aroma_profile": "花香、草本、清新",
     "intensity": 6,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Geranium_February_2008-1.jpg/330px-Geranium_February_2008-1.jpg",
     "is_featured": false
   },
   {
@@ -739,7 +739,7 @@
     ],
     "aroma_profile": "草本、堅果、清新",
     "intensity": 7,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Salvia_sclarea3.jpg/330px-Salvia_sclarea3.jpg",
     "is_featured": false
   },
   {
@@ -782,7 +782,7 @@
     ],
     "aroma_profile": "深沉、大地、樹脂",
     "intensity": 6,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Commiphora-myrrha-resin-myrrh.jpg",
     "is_featured": false
   },
   {
@@ -825,7 +825,7 @@
     ],
     "aroma_profile": "木質、奶油、溫暖",
     "intensity": 5,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Santalum_paniculatum_1326.jpg/330px-Santalum_paniculatum_1326.jpg",
     "is_featured": true
   },
   {
@@ -868,7 +868,7 @@
     ],
     "aroma_profile": "草本、溫暖、微辣",
     "intensity": 6,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Origanum_majorana_002.JPG/330px-Origanum_majorana_002.JPG",
     "is_featured": false
   },
   {
@@ -911,7 +911,7 @@
     ],
     "aroma_profile": "清新、柑橘、銳利",
     "intensity": 7,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Citrus_%C3%97_aurantiifolia_%28Christm.%29_Swingle_%2851906868474%29.jpg/330px-Citrus_%C3%97_aurantiifolia_%28Christm.%29_Swingle_%2851906868474%29.jpg",
     "is_featured": false
   },
   {
@@ -954,7 +954,7 @@
     ],
     "aroma_profile": "清甜、薄荷、溫和",
     "intensity": 6,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Minze.jpg/330px-Minze.jpg",
     "is_featured": false
   },
   {
@@ -997,7 +997,7 @@
     ],
     "aroma_profile": "辛辣、溫暖、濃烈",
     "intensity": 9,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Syzygium_aromaticum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-030.jpg/330px-Syzygium_aromaticum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-030.jpg",
     "is_featured": false
   },
   {
@@ -1040,7 +1040,7 @@
     ],
     "aroma_profile": "辛甜、溫暖、香料",
     "intensity": 8,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Cinnamomum_verum_10zz.jpg/330px-Cinnamomum_verum_10zz.jpg",
     "is_featured": false
   },
   {
@@ -1083,7 +1083,7 @@
     ],
     "aroma_profile": "辛辣、溫暖、根莖",
     "intensity": 7,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Koeh-146-no_text.jpg/330px-Koeh-146-no_text.jpg",
     "is_featured": false
   },
   {
@@ -1126,7 +1126,7 @@
     ],
     "aroma_profile": "辛辣、溫暖、胡椒",
     "intensity": 7,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Piper_nigrum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-107.jpg/330px-Piper_nigrum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-107.jpg",
     "is_featured": false
   },
   {
@@ -1169,7 +1169,7 @@
     ],
     "aroma_profile": "草本、辛辣、藥草",
     "intensity": 8,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Thyme-Bundle.jpg/330px-Thyme-Bundle.jpg",
     "is_featured": false
   },
   {
@@ -1212,7 +1212,7 @@
     ],
     "aroma_profile": "清新、草本、甜美",
     "intensity": 7,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ocimum_basilicum_8zz.jpg/330px-Ocimum_basilicum_8zz.jpg",
     "is_featured": false
   },
   {
@@ -1255,7 +1255,7 @@
     ],
     "aroma_profile": "甜茴香、草本、清新",
     "intensity": 7,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Foeniculum_July_2011-1a.jpg/330px-Foeniculum_July_2011-1a.jpg",
     "is_featured": false
   },
   {
@@ -1298,7 +1298,7 @@
     ],
     "aroma_profile": "草本、花香、微苦",
     "intensity": 5,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Matricaria_February_2008-1.jpg/330px-Matricaria_February_2008-1.jpg",
     "is_featured": false
   },
   {
@@ -1341,7 +1341,7 @@
     ],
     "aroma_profile": "精緻、花香、柑橘",
     "intensity": 6,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Citrus_aurantium_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-042.jpg/330px-Citrus_aurantium_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-042.jpg",
     "is_featured": true
   },
   {
@@ -1384,7 +1384,7 @@
     ],
     "aroma_profile": "濃郁、甜花、異國",
     "intensity": 8,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Common_Jasmine.jpg/330px-Common_Jasmine.jpg",
     "is_featured": true
   },
   {
@@ -1427,7 +1427,7 @@
     ],
     "aroma_profile": "大地、木質、深沉",
     "intensity": 6,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vetiver_grass.jpg/330px-Vetiver_grass.jpg",
     "is_featured": false
   },
   {
@@ -1470,7 +1470,7 @@
     ],
     "aroma_profile": "花香、草本、蜂蜜",
     "intensity": 5,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Helichrysum_sanguineum.jpg/330px-Helichrysum_sanguineum.jpg",
     "is_featured": true
   },
   {
@@ -1513,7 +1513,7 @@
     ],
     "aroma_profile": "清新、木質、草本",
     "intensity": 6,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/%CE%95%CE%B8%CE%BD%CE%B9%CE%BA%CF%8C%CF%82_%CE%94%CF%81%CF%85%CE%BC%CF%8C%CF%82_%CE%A3%CE%B1%CE%BC%CE%B1%CF%81%CE%B9%CE%AC%CF%82.jpg/330px-%CE%95%CE%B8%CE%BD%CE%B9%CE%BA%CF%8C%CF%82_%CE%94%CF%81%CF%85%CE%BC%CF%8C%CF%82_%CE%A3%CE%B1%CE%BC%CE%B1%CF%81%CE%B9%CE%AC%CF%82.jpg",
     "is_featured": false
   },
   {
@@ -1556,7 +1556,7 @@
     ],
     "aroma_profile": "清新、木質、辛辣",
     "intensity": 6,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Juniperus_communis_fruits_-_Keila.jpg/330px-Juniperus_communis_fruits_-_Keila.jpg",
     "is_featured": false
   },
   {
@@ -1599,7 +1599,7 @@
     ],
     "aroma_profile": "清新、森林、木質",
     "intensity": 7,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Pinus_jeffreyi_at_Lassen_Volcanic_National_Park.jpg/330px-Pinus_jeffreyi_at_Lassen_Volcanic_National_Park.jpg",
     "is_featured": false
   },
   {
@@ -1642,7 +1642,7 @@
     ],
     "aroma_profile": "草本、辛辣、溫暖",
     "intensity": 9,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Origanum_vulgare_-_harilik_pune.jpg/330px-Origanum_vulgare_-_harilik_pune.jpg",
     "is_featured": false
   },
   {
@@ -1685,7 +1685,7 @@
     ],
     "aroma_profile": "溫暖、香料、甜美",
     "intensity": 6,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Coriandrum_sativum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-193.jpg/330px-Coriandrum_sativum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-193.jpg",
     "is_featured": false
   },
   {
@@ -1728,7 +1728,7 @@
     ],
     "aroma_profile": "甜美、香草、溫暖",
     "intensity": 6,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Styrax_benzoin_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-133.jpg/330px-Styrax_benzoin_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-133.jpg",
     "is_featured": false
   },
   {
@@ -1767,7 +1767,7 @@
     ],
     "aroma_profile": "清涼、冬青糖、清新",
     "intensity": 9,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/FountainSpringsWintergreen.png/330px-FountainSpringsWintergreen.png",
     "is_featured": false
   },
   {
@@ -1810,7 +1810,7 @@
     ],
     "aroma_profile": "清新、柑橘、木質",
     "intensity": 5,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/PetitgrainEssentialOil.png/330px-PetitgrainEssentialOil.png",
     "is_featured": false
   },
   {
@@ -1853,7 +1853,7 @@
     ],
     "aroma_profile": "玫瑰、草本、清新",
     "intensity": 6,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Cymbopogon_martinii_Image.jpg/330px-Cymbopogon_martinii_Image.jpg",
     "is_featured": false
   },
   {
@@ -1896,7 +1896,7 @@
     ],
     "aroma_profile": "清新、檸檬草、強烈",
     "intensity": 8,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/YosriNov04Pokok_Serai.JPG/330px-YosriNov04Pokok_Serai.JPG",
     "is_featured": false
   },
   {
@@ -1939,7 +1939,7 @@
     ],
     "aroma_profile": "草本、辛香、溫暖",
     "intensity": 7,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Starr-071024-0195-Laurus_nobilis-leaves-Enchanting_Floral_Gardens_of_Kula-Maui_%2824867859296%29.jpg/330px-Starr-071024-0195-Laurus_nobilis-leaves-Enchanting_Floral_Gardens_of_Kula-Maui_%2824867859296%29.jpg",
     "is_featured": false
   },
   {
@@ -1982,7 +1982,7 @@
     ],
     "aroma_profile": "木質、玫瑰、溫和",
     "intensity": 5,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rio-Palisander%2C_dunkel_Holz.JPG/330px-Rio-Palisander%2C_dunkel_Holz.JPG",
     "is_featured": false
   },
   {
@@ -2025,7 +2025,7 @@
     ],
     "aroma_profile": "甜橙、莓果、複雜",
     "intensity": 7,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/BloodOrange.jpg/330px-BloodOrange.jpg",
     "is_featured": false
   },
   {
@@ -2068,7 +2068,7 @@
     ],
     "aroma_profile": "清新、樟腦、清潔",
     "intensity": 7,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/CajuputEssOil.png/330px-CajuputEssOil.png",
     "is_featured": false
   },
   {
@@ -2111,7 +2111,7 @@
     ],
     "aroma_profile": "草本、花香、清新",
     "intensity": 7,
-    "image_url": null,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Tansy.jpg/330px-Tansy.jpg",
     "is_featured": false
   },
   {
@@ -2154,7 +2154,2157 @@
     ],
     "aroma_profile": "草本、茴香、清甜",
     "intensity": 5,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Illustration_Anethum_graveolens_clean.jpg/330px-Illustration_Anethum_graveolens_clean.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 51,
+    "chinese_name": "側柏",
+    "english_name": "Arborvitae",
+    "latin_name": "Thuja plicata",
+    "category": "木質類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "木材",
+    "origin": "加拿大、美國",
+    "description": "側柏精油帶有溫暖柔和的木質香氣，常用於冥想和空間淨化，能幫助安定思緒並營造沉穩氛圍。",
+    "main_effects": [
+      "安定情緒",
+      "支持呼吸道",
+      "淨化空氣",
+      "放鬆身心",
+      "冥想助力"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 2-4 滴於擴香器，營造沉穩木質氛圍。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1-2% 後按摩肩頸，幫助放鬆。"
+      },
+      {
+        "method": "空間噴霧",
+        "instruction": "每 100ml 水加入 8-10 滴，作為室內淨化噴霧。"
+      }
+    ],
+    "precautions": "請先稀釋後再使用。孕婦與慢性病患者請先諮詢專業人士。",
+    "blends_well": [
+      7,
+      8,
+      13,
+      51
+    ],
+    "aroma_profile": "木質、溫暖、柔和",
+    "intensity": 6,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Thuja_plicata_Vancouver.jpg/330px-Thuja_plicata_Vancouver.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 52,
+    "chinese_name": "香脂冷杉",
+    "english_name": "Balsam Fir",
+    "latin_name": "Abies balsamea",
+    "category": "木質類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "針葉",
+    "origin": "加拿大",
+    "description": "香脂冷杉精油具有清新森林氣息，可幫助舒緩疲憊與壓力，並帶來寬廣通透的呼吸感受。",
+    "main_effects": [
+      "提振精神",
+      "舒緩壓力",
+      "支持呼吸道",
+      "運動後放鬆",
+      "淨化空氣"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 3-5 滴，營造清新森林氛圍。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 2% 後按摩背部與腿部，緩解疲勞。"
+      },
+      {
+        "method": "沐浴",
+        "instruction": "加入 4-6 滴至浴缸，放鬆身心。"
+      }
+    ],
+    "precautions": "敏感肌膚建議先做局部測試。避免接觸眼睛。",
+    "blends_well": [
+      5,
+      8,
+      13,
+      52
+    ],
+    "aroma_profile": "森林、針葉、清新",
+    "intensity": 6,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Abies_balsamea.jpg/330px-Abies_balsamea.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 53,
+    "chinese_name": "樺木",
+    "english_name": "Birch",
+    "latin_name": "Betula lenta",
+    "category": "樟腦類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "樹皮",
+    "origin": "美國",
+    "description": "樺木精油帶有甜潤木質香氣，常用於運動後舒緩和肌肉放鬆，氣味與冬青類似但更溫和。",
+    "main_effects": [
+      "舒緩肌肉",
+      "放鬆關節",
+      "促進循環",
+      "運動後恢復",
+      "提振活力"
+    ],
+    "usage_methods": [
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1-2% 後按摩痠痛部位。"
+      },
+      {
+        "method": "熱敷",
+        "instruction": "加入熱敷水中 1-2 滴，敷於緊繃肌肉。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 2-3 滴，營造溫暖清新感。"
+      }
+    ],
+    "precautions": "含類似水楊酸酯成分，對阿斯匹靈過敏者避免使用。孕婦避免使用。",
+    "blends_well": [
+      4,
+      41,
+      52,
+      53
+    ],
+    "aroma_profile": "甜木質、清新、溫暖",
+    "intensity": 7,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Betula_pendula_001.jpg/330px-Betula_pendula_001.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 54,
+    "chinese_name": "黑雲杉",
+    "english_name": "Black Spruce",
+    "latin_name": "Picea mariana",
+    "category": "木質類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "針葉",
+    "origin": "加拿大",
+    "description": "黑雲杉精油具深沉針葉香氣，有助提升專注與穩定心緒，適合工作與冥想時使用。",
+    "main_effects": [
+      "穩定情緒",
+      "提振專注",
+      "支持呼吸道",
+      "舒緩疲憊",
+      "淨化空氣"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 2-4 滴於擴香器，適合晨間使用。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1-2% 按摩背部和肩頸。"
+      },
+      {
+        "method": "吸嗅",
+        "instruction": "滴 1 滴於手帕，深呼吸數次。"
+      }
+    ],
+    "precautions": "一般安全，敏感肌請先測試。",
+    "blends_well": [
+      5,
+      13,
+      51,
+      54
+    ],
+    "aroma_profile": "針葉、沉穩、森林",
+    "intensity": 6,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Black_spruce_stand_at_Arctic_Chalet%2C_Inuvik%2C_NT.jpg/330px-Black_spruce_stand_at_Arctic_Chalet%2C_Inuvik%2C_NT.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 55,
+    "chinese_name": "依蘭依蘭花",
+    "english_name": "Cananga",
+    "latin_name": "Cananga odorata",
+    "category": "花香類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "花朵",
+    "origin": "馬達加斯加、印尼",
+    "description": "依蘭依蘭花精油帶有甜美濃郁花香，常用於情緒安撫、放鬆與女性保養配方中。",
+    "main_effects": [
+      "舒緩焦慮",
+      "平衡情緒",
+      "護膚保養",
+      "助眠",
+      "營造浪漫氛圍"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 1-3 滴即可，避免過量。"
+      },
+      {
+        "method": "護膚",
+        "instruction": "稀釋至 0.5-1% 加入保養油。"
+      },
+      {
+        "method": "沐浴",
+        "instruction": "與基底油混合後加入浴缸 3-4 滴。"
+      }
+    ],
+    "precautions": "香氣較濃，少量使用。低血壓者請謹慎。",
+    "blends_well": [
+      6,
+      12,
+      16,
+      55
+    ],
+    "aroma_profile": "濃郁花香、甜美、溫暖",
+    "intensity": 8,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cananga_odorata_01.JPG/330px-Cananga_odorata_01.JPG",
+    "is_featured": false
+  },
+  {
+    "id": 56,
+    "chinese_name": "葛縷子",
+    "english_name": "Caraway",
+    "latin_name": "Carum carvi",
+    "category": "辛香類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "種子",
+    "origin": "荷蘭、埃及",
+    "description": "葛縷子精油具有溫暖辛香和微甜草本調，常用於消化支持與餐後舒緩。",
+    "main_effects": [
+      "促進消化",
+      "緩解脹氣",
+      "溫暖身體",
+      "舒緩胃部不適",
+      "支持代謝"
+    ],
+    "usage_methods": [
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1% 後按摩腹部。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 2-3 滴，帶來溫暖辛香氛圍。"
+      },
+      {
+        "method": "熱敷",
+        "instruction": "腹部熱敷時加入 1 滴輔助放鬆。"
+      }
+    ],
+    "precautions": "孕婦避免使用。皮膚敏感者務必稀釋。",
+    "blends_well": [
+      29,
+      39,
+      56,
+      2
+    ],
+    "aroma_profile": "辛香、草本、微甜",
+    "intensity": 6,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Carum_carvi_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-172.jpg/330px-Carum_carvi_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-172.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 57,
+    "chinese_name": "小荳蔻",
+    "english_name": "Cardamom",
+    "latin_name": "Elettaria cardamomum",
+    "category": "辛香類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "種子",
+    "origin": "瓜地馬拉、印度",
+    "description": "小荳蔻精油香氣溫暖清新，兼具甜辛感，適合呼吸道護理與消化舒緩。",
+    "main_effects": [
+      "支持呼吸道",
+      "促進消化",
+      "提振精神",
+      "舒緩胃部壓力",
+      "暖身"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 2-4 滴，帶來清甜辛香。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1-2% 按摩胸口或腹部。"
+      },
+      {
+        "method": "吸嗅",
+        "instruction": "滴 1 滴於手心搓熱吸嗅。"
+      }
+    ],
+    "precautions": "一般安全，避免高劑量連續使用。",
+    "blends_well": [
+      5,
+      11,
+      29,
+      57
+    ],
+    "aroma_profile": "辛香、甜暖、清新",
+    "intensity": 6,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elettaria_cardamomum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-057.jpg/330px-Elettaria_cardamomum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-057.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 58,
+    "chinese_name": "肉桂皮",
+    "english_name": "Cassia",
+    "latin_name": "Cinnamomum cassia",
+    "category": "辛香類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "樹皮",
+    "origin": "中國、越南",
+    "description": "桂皮精油氣味辛辣溫暖，少量即可帶來活力與暖感，常用於季節轉換期的防護配方。",
+    "main_effects": [
+      "暖身",
+      "提升活力",
+      "淨化空氣",
+      "支持免疫",
+      "驅寒"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 1-2 滴即可，避免過量。"
+      },
+      {
+        "method": "清潔",
+        "instruction": "加入居家清潔液，增加溫暖辛香與潔淨感。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "務必稀釋至 0.25-0.5% 再局部使用。"
+      }
+    ],
+    "precautions": "可能刺激皮膚，務必低濃度稀釋。孕婦避免使用。",
+    "blends_well": [
+      11,
+      24,
+      27,
+      58
+    ],
+    "aroma_profile": "辛辣、溫暖、甜香",
+    "intensity": 9,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cinnamomum_aromaticum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-039_cropped.jpg/330px-Cinnamomum_aromaticum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-039_cropped.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 59,
+    "chinese_name": "芹菜籽",
+    "english_name": "Celery Seed",
+    "latin_name": "Apium graveolens",
+    "category": "草本類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "種子",
+    "origin": "印度、法國",
+    "description": "芹菜籽精油有獨特草本辛香，常見於循環與水分平衡保養中，適合調理型配方。",
+    "main_effects": [
+      "循環支持",
+      "水分平衡",
+      "舒緩緊繃",
+      "促進代謝",
+      "淨化感受"
+    ],
+    "usage_methods": [
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1% 後按摩腿部與腹部。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 2-3 滴，搭配柑橘可柔化氣味。"
+      },
+      {
+        "method": "泡腳",
+        "instruction": "滴 1-2 滴於泡腳盆中，幫助放鬆。"
+      }
+    ],
+    "precautions": "孕婦避免使用。皮膚敏感者先測試。",
+    "blends_well": [
+      2,
+      9,
+      39,
+      59
+    ],
+    "aroma_profile": "草本、辛香、微苦",
+    "intensity": 6,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/2023-06-22_Apium_graveolens_%28Wild_Celery%29%2C_Elswick%2C_Northumberland_4.jpg/330px-2023-06-22_Apium_graveolens_%28Wild_Celery%29%2C_Elswick%2C_Northumberland_4.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 60,
+    "chinese_name": "芫荽葉",
+    "english_name": "Cilantro",
+    "latin_name": "Coriandrum sativum",
+    "category": "草本類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "葉片",
+    "origin": "法國、俄羅斯",
+    "description": "芫荽葉精油帶有清新綠葉香氣，適合提振精神與消化支持，並可淨化居家氣味。",
+    "main_effects": [
+      "提振精神",
+      "促進消化",
+      "淨化空氣",
+      "舒緩壓力",
+      "支持代謝"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 2-4 滴，帶來清新草本香氣。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1% 按摩腹部。"
+      },
+      {
+        "method": "居家清潔",
+        "instruction": "加入噴霧清潔液提升清新感。"
+      }
+    ],
+    "precautions": "一般安全，首次使用建議低濃度。",
+    "blends_well": [
+      2,
+      39,
+      40,
+      60
+    ],
+    "aroma_profile": "綠葉、草本、清新",
+    "intensity": 5,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Coriandrum_sativum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-193.jpg/330px-Coriandrum_sativum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-193.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 61,
+    "chinese_name": "肉桂皮（真）",
+    "english_name": "Cinnamon Bark",
+    "latin_name": "Cinnamomum verum",
+    "category": "辛香類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "樹皮",
+    "origin": "斯里蘭卡",
+    "description": "真肉桂皮精油香氣甜暖而辛辣，常用於秋冬配方與空間淨化，氣味厚實且具感染力。",
+    "main_effects": [
+      "暖身",
+      "提升活力",
+      "淨化空氣",
+      "季節防護",
+      "振奮情緒"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "建議 1 滴搭配柑橘精油擴香。"
+      },
+      {
+        "method": "清潔",
+        "instruction": "加入居家清潔配方提升香氣與潔淨感。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "僅可 0.25% 以下稀釋後使用。"
+      }
+    ],
+    "precautions": "皮膚刺激性高，務必低濃度稀釋。兒童與孕婦避免使用。",
+    "blends_well": [
+      2,
+      11,
+      24,
+      61
+    ],
+    "aroma_profile": "辛辣、甜暖、濃郁",
+    "intensity": 9,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Cinnamomum_verum1.jpg/330px-Cinnamomum_verum1.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 62,
+    "chinese_name": "香茅",
+    "english_name": "Citronella",
+    "latin_name": "Cymbopogon nardus",
+    "category": "草本類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "葉片",
+    "origin": "印尼、斯里蘭卡",
+    "description": "香茅精油具有鮮明檸檬草香，常用於戶外防護、空間除味與清潔用途。",
+    "main_effects": [
+      "驅蟲防護",
+      "除臭",
+      "淨化空氣",
+      "提振精神",
+      "清潔支持"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 3-5 滴於戶外或門窗附近使用。"
+      },
+      {
+        "method": "空間噴霧",
+        "instruction": "每 100ml 水加入 10 滴作為防護噴霧。"
+      },
+      {
+        "method": "清潔",
+        "instruction": "滴入地板清潔水中增添清新感。"
+      }
+    ],
+    "precautions": "皮膚使用需稀釋。避免接觸眼周與黏膜。",
+    "blends_well": [
+      9,
+      43,
+      62,
+      2
+    ],
+    "aroma_profile": "檸檬草、清新、草本",
+    "intensity": 7,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/%C3%93leo_de_citronela.jpg/330px-%C3%93leo_de_citronela.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 63,
+    "chinese_name": "克萊門氏橘",
+    "english_name": "Clementine",
+    "latin_name": "Citrus clementina",
+    "category": "柑橘類",
+    "extraction_method": "冷壓法",
+    "plant_part": "果皮",
+    "origin": "義大利、西班牙",
+    "description": "克萊門氏橘精油香氣甜美明亮，適合日間擴香提振心情，也是親子家庭喜愛的果香選擇。",
+    "main_effects": [
+      "提振情緒",
+      "空間除臭",
+      "促進專注",
+      "舒緩壓力",
+      "清新氛圍"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 4-6 滴，打造愉悅果香空間。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 2% 後按摩腹部舒緩不適。"
+      },
+      {
+        "method": "清潔",
+        "instruction": "加入清潔劑提升去味效果。"
+      }
+    ],
+    "precautions": "具光敏性，塗抹後 12 小時避免日曬。",
+    "blends_well": [
+      1,
+      2,
+      11,
+      63
+    ],
+    "aroma_profile": "甜橘、明亮、果香",
+    "intensity": 6,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clementines_whole%2C_peeled%2C_half_and_sectioned.jpg/330px-Clementines_whole%2C_peeled%2C_half_and_sectioned.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 64,
+    "chinese_name": "古巴香脂",
+    "english_name": "Copaiba",
+    "latin_name": "Copaifera officinalis",
+    "category": "樹脂類",
+    "extraction_method": "樹脂蒸餾",
+    "plant_part": "樹脂",
+    "origin": "巴西",
+    "description": "古巴香脂精油具有柔和木脂香氣，以舒緩與鎮定特性著稱，常用於肌膚與情緒平衡配方。",
+    "main_effects": [
+      "舒緩不適",
+      "安定情緒",
+      "護膚修護",
+      "放鬆身心",
+      "支持恢復"
+    ],
+    "usage_methods": [
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1-2% 後按摩關節與肌肉。"
+      },
+      {
+        "method": "護膚",
+        "instruction": "稀釋後點塗於乾燥或敏感部位。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 2-3 滴，帶來沉穩放鬆感。"
+      }
+    ],
+    "precautions": "一般安全，仍建議稀釋使用。",
+    "blends_well": [
+      7,
+      8,
+      18,
+      64
+    ],
+    "aroma_profile": "木脂、溫和、沉穩",
+    "intensity": 4,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Copaifera_officinalis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-047.jpg/330px-Copaifera_officinalis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-047.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 65,
+    "chinese_name": "大花香薊",
+    "english_name": "Davana",
+    "latin_name": "Artemisia pallens",
+    "category": "花香類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "花朵",
+    "origin": "印度",
+    "description": "大花香薊精油帶有果香與甜草本調，常見於高級香氛調配，能營造細緻且放鬆的氛圍。",
+    "main_effects": [
+      "安撫情緒",
+      "香氛調配",
+      "舒緩壓力",
+      "提升幸福感",
+      "助眠"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 1-2 滴，香氣即很明顯。"
+      },
+      {
+        "method": "香氛調配",
+        "instruction": "作為後調少量添加，增加層次。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 0.5-1% 後按摩放鬆。"
+      }
+    ],
+    "precautions": "香氣濃郁，建議低劑量使用。",
+    "blends_well": [
+      6,
+      12,
+      16,
+      65
+    ],
+    "aroma_profile": "果香、甜草本、細緻",
+    "intensity": 7,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Artemisia_pallens-1-xavier_cottage-yercaud-salem-India.jpg/330px-Artemisia_pallens-1-xavier_cottage-yercaud-salem-India.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 66,
+    "chinese_name": "道格拉斯冷杉",
+    "english_name": "Douglas Fir",
+    "latin_name": "Pseudotsuga menziesii",
+    "category": "木質類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "針葉",
+    "origin": "美國、加拿大",
+    "description": "道格拉斯冷杉精油散發明亮的針葉柑橘調，可提振精神並帶來清爽森林感。",
+    "main_effects": [
+      "提振精神",
+      "支持呼吸道",
+      "淨化空氣",
+      "舒緩緊繃",
+      "提升專注"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 3-5 滴，適合晨間與工作時。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1-2% 後按摩肩頸。"
+      },
+      {
+        "method": "吸嗅",
+        "instruction": "滴 1 滴於手帕隨身吸嗅。"
+      }
+    ],
+    "precautions": "一般安全，幼兒使用請降低濃度。",
+    "blends_well": [
+      2,
+      5,
+      13,
+      66
+    ],
+    "aroma_profile": "針葉、清新、微柑橘",
+    "intensity": 6,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pseudotsuga_menziesii_4584.JPG/330px-Pseudotsuga_menziesii_4584.JPG",
+    "is_featured": false
+  },
+  {
+    "id": 67,
+    "chinese_name": "癒創木",
+    "english_name": "Guaiacwood",
+    "latin_name": "Bulnesia sarmientoi",
+    "category": "木質類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "木材",
+    "origin": "巴拉圭",
+    "description": "癒創木精油帶有煙燻木質與甜暖調性，適合深層放鬆與靜心冥想。",
+    "main_effects": [
+      "深度放鬆",
+      "安定心緒",
+      "睡前舒壓",
+      "香氛定香",
+      "支持冥想"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 1-3 滴，營造沉靜空間。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1% 後按摩足底與背部。"
+      },
+      {
+        "method": "香氛調配",
+        "instruction": "作為後調使用提升持香。"
+      }
+    ],
+    "precautions": "一般安全，使用前仍建議稀釋。",
+    "blends_well": [
+      7,
+      19,
+      35,
+      67
+    ],
+    "aroma_profile": "煙燻木質、甜暖、沉穩",
+    "intensity": 6,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Guaiacum_officinale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-069.jpg/330px-Guaiacum_officinale_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-069.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 68,
+    "chinese_name": "綠橘",
+    "english_name": "Green Mandarin",
+    "latin_name": "Citrus reticulata",
+    "category": "柑橘類",
+    "extraction_method": "冷壓法",
+    "plant_part": "果皮",
+    "origin": "義大利、巴西",
+    "description": "綠橘精油香氣鮮甜中帶青澀，能溫和提振心情，適合兒童與家庭擴香環境。",
+    "main_effects": [
+      "安撫情緒",
+      "提振心情",
+      "促進消化",
+      "空間清新",
+      "減壓放鬆"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 3-6 滴，營造明亮果香。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 2% 後按摩腹部。"
+      },
+      {
+        "method": "沐浴",
+        "instruction": "加入 4-5 滴，放鬆身心。"
+      }
+    ],
+    "precautions": "具光敏風險，皮膚使用後避免曝曬。",
+    "blends_well": [
+      1,
+      2,
+      11,
+      68
+    ],
+    "aroma_profile": "青橘、甜香、清新",
+    "intensity": 5,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Citrus_reticulata_April_2013_Nordbaden.JPG/330px-Citrus_reticulata_April_2013_Nordbaden.JPG",
+    "is_featured": false
+  },
+  {
+    "id": 69,
+    "chinese_name": "扁柏",
+    "english_name": "Hinoki",
+    "latin_name": "Chamaecyparis obtusa",
+    "category": "木質類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "木材",
+    "origin": "日本、台灣",
+    "description": "扁柏精油具有乾淨沈穩的木質香，常用於居家淨化、情緒安定與禪修情境。",
+    "main_effects": [
+      "淨化空間",
+      "安定情緒",
+      "幫助專注",
+      "放鬆壓力",
+      "支持睡眠"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 2-4 滴，適合書房或臥室。"
+      },
+      {
+        "method": "泡澡",
+        "instruction": "加入 3-5 滴於浴缸，享受森林浴感。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1-2% 後按摩肩頸。"
+      }
+    ],
+    "precautions": "一般安全，首次使用建議低濃度。",
+    "blends_well": [
+      8,
+      13,
+      19,
+      69
+    ],
+    "aroma_profile": "乾淨木質、森林、沉穩",
+    "intensity": 5,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/%E5%A4%A7%E6%99%BA%E5%AF%BA_%28%E5%B2%90%E9%98%9C%E5%B8%82%29-%E6%A8%B9%E9%BD%A2%E7%B4%84700%E5%B9%B4%E3%81%AE%E5%A4%A7%E3%83%92%E3%83%8E%E3%82%ADdaichiji008.jpg/330px-%E5%A4%A7%E6%99%BA%E5%AF%BA_%28%E5%B2%90%E9%98%9C%E5%B8%82%29-%E6%A8%B9%E9%BD%A2%E7%B4%84700%E5%B9%B4%E3%81%AE%E5%A4%A7%E3%83%92%E3%83%8E%E3%82%ADdaichiji008.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 70,
+    "chinese_name": "日本薄荷",
+    "english_name": "Japanese Peppermint",
+    "latin_name": "Mentha arvensis",
+    "category": "草本類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "葉片",
+    "origin": "日本、中國",
+    "description": "日本薄荷精油清涼感更強，適合提神、舒緩悶熱與運動後調理。",
+    "main_effects": [
+      "強力提神",
+      "清涼舒緩",
+      "支持呼吸道",
+      "緩解頭部壓力",
+      "驅悶熱"
+    ],
+    "usage_methods": [
+      {
+        "method": "吸嗅",
+        "instruction": "滴 1 滴於手帕快速提神。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 0.5-1% 後按摩太陽穴或後頸。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 1-2 滴即可，避免過量刺激。"
+      }
+    ],
+    "precautions": "幼兒、孕婦與癲癇患者避免使用。勿接近眼周。",
+    "blends_well": [
+      5,
+      9,
+      43,
+      70
+    ],
+    "aroma_profile": "強烈薄荷、清涼、清新",
+    "intensity": 9,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mentha_arvensis_-_p%C3%B5ldm%C3%BCnt_Keila.jpg/330px-Mentha_arvensis_-_p%C3%B5ldm%C3%BCnt_Keila.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 71,
+    "chinese_name": "金桔",
+    "english_name": "Kumquat",
+    "latin_name": "Fortunella japonica",
+    "category": "柑橘類",
+    "extraction_method": "冷壓法",
+    "plant_part": "果皮",
+    "origin": "中國、義大利",
+    "description": "金桔精油散發細緻甜橘香，能提亮心情並帶來清新潔淨感，適合白天使用。",
+    "main_effects": [
+      "提振情緒",
+      "空間除味",
+      "促進放鬆",
+      "增添活力",
+      "香氛調配"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 4-6 滴，香氣清爽明亮。"
+      },
+      {
+        "method": "清潔",
+        "instruction": "加入去味噴霧提升果香清新感。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 2% 後腹部按摩。"
+      }
+    ],
+    "precautions": "具光敏風險，塗抹後避免曝曬。",
+    "blends_well": [
+      1,
+      2,
+      11,
+      71
+    ],
+    "aroma_profile": "甜橘、清新、輕盈",
+    "intensity": 5,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Kumquat_from_Spain.jpg/330px-Kumquat_from_Spain.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 72,
+    "chinese_name": "檸檬尤加利",
+    "english_name": "Lemon Eucalyptus",
+    "latin_name": "Eucalyptus citriodora",
+    "category": "樟腦類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "葉片",
+    "origin": "巴西、中國",
+    "description": "檸檬尤加利兼具尤加利與檸檬清香，常用於戶外防護與空間清新配方。",
+    "main_effects": [
+      "驅蟲防護",
+      "支持呼吸道",
+      "空間淨化",
+      "清新除味",
+      "提振精神"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 3-5 滴，保持空氣清新。"
+      },
+      {
+        "method": "空間噴霧",
+        "instruction": "每 100ml 水加入 8-10 滴噴灑室內。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1% 後局部塗抹防護。"
+      }
+    ],
+    "precautions": "幼兒與敏感肌請降低濃度，避免眼周使用。",
+    "blends_well": [
+      5,
+      9,
+      62,
+      72
+    ],
+    "aroma_profile": "檸檬、清涼、草本",
+    "intensity": 7,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Corymbia_citriodora.jpg/330px-Corymbia_citriodora.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 73,
+    "chinese_name": "玉蘭花",
+    "english_name": "Magnolia",
+    "latin_name": "Magnolia alba",
+    "category": "花香類",
+    "extraction_method": "溶劑萃取",
+    "plant_part": "花朵",
+    "origin": "中國、東南亞",
+    "description": "玉蘭花精油花香柔雅細膩，適合情緒平衡與女性香氛保養，能帶來溫柔安定感。",
+    "main_effects": [
+      "舒緩情緒",
+      "減少焦慮感",
+      "香氛調配",
+      "護膚保養",
+      "助眠"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 1-2 滴即可，有明顯花香。"
+      },
+      {
+        "method": "護膚",
+        "instruction": "稀釋至 0.5-1% 加入保養油。"
+      },
+      {
+        "method": "脈搏點",
+        "instruction": "稀釋後塗抹手腕與耳後。"
+      }
+    ],
+    "precautions": "香氣濃郁，建議低劑量。孕婦請諮詢專業人士。",
+    "blends_well": [
+      6,
+      16,
+      31,
+      73
+    ],
+    "aroma_profile": "細緻花香、柔和、甜雅",
+    "intensity": 6,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Magnolia_sieboldii_flower_1.jpg/330px-Magnolia_sieboldii_flower_1.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 74,
+    "chinese_name": "香蜂草",
+    "english_name": "Melissa",
+    "latin_name": "Melissa officinalis",
+    "category": "草本類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "葉片",
+    "origin": "保加利亞、法國",
+    "description": "香蜂草精油帶有清甜檸檬草本香，常被視為情緒安撫珍品，適合壓力大時使用。",
+    "main_effects": [
+      "舒緩焦慮",
+      "支持免疫",
+      "助眠",
+      "平衡情緒",
+      "清新提振"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 1-2 滴即可，有效安撫情緒。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 0.5-1% 後塗抹胸口與足底。"
+      },
+      {
+        "method": "吸嗅",
+        "instruction": "滴於手帕，於緊張時深呼吸。"
+      }
+    ],
+    "precautions": "價格高且濃縮度高，建議小量使用。孕婦避免使用。",
+    "blends_well": [
+      1,
+      6,
+      10,
+      74
+    ],
+    "aroma_profile": "檸檬草本、清甜、柔和",
+    "intensity": 6,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Lemon_balm_plant.jpg/330px-Lemon_balm_plant.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 75,
+    "chinese_name": "西伯利亞冷杉",
+    "english_name": "Siberian Fir",
+    "latin_name": "Abies sibirica",
+    "category": "木質類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "針葉",
+    "origin": "俄羅斯",
+    "description": "西伯利亞冷杉精油氣味清冷純淨，適合呼吸道保養與運動後放鬆，帶來森林般暢快感。",
+    "main_effects": [
+      "支持呼吸道",
+      "放鬆肌肉",
+      "提振精神",
+      "淨化空氣",
+      "舒緩壓力"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 3-5 滴，清新空間空氣。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 2% 按摩背部與腿部。"
+      },
+      {
+        "method": "熱敷",
+        "instruction": "加入 1-2 滴於熱敷布，舒緩緊繃。"
+      }
+    ],
+    "precautions": "一般安全，敏感肌建議先測試。",
+    "blends_well": [
+      5,
+      13,
+      52,
+      75
+    ],
+    "aroma_profile": "清冷針葉、森林、乾淨",
+    "intensity": 6,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Abies_sibirica_HDR.jpg/330px-Abies_sibirica_HDR.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 76,
+    "chinese_name": "綠花白千層",
+    "english_name": "Niaouli",
+    "latin_name": "Melaleuca quinquenervia",
+    "category": "樟腦類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "葉片",
+    "origin": "馬達加斯加",
+    "description": "綠花白千層精油清新穿透，與茶樹、尤加利相近，適合季節轉換期擴香與護理。",
+    "main_effects": [
+      "淨化空氣",
+      "支持呼吸道",
+      "清潔護理",
+      "提振精神",
+      "舒緩不適"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 3-4 滴，維持空間清新。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1-2% 後塗抹胸口或背部。"
+      },
+      {
+        "method": "蒸氣吸嗅",
+        "instruction": "熱水中滴 1-2 滴吸嗅蒸氣。"
+      }
+    ],
+    "precautions": "幼童使用需低濃度，避免接觸眼周。",
+    "blends_well": [
+      3,
+      5,
+      48,
+      76
+    ],
+    "aroma_profile": "清新、樟腦、草本",
+    "intensity": 7,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Melaleuca_quinquenervia_flowers.jpg/330px-Melaleuca_quinquenervia_flowers.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 77,
+    "chinese_name": "山雞椒",
+    "english_name": "Litsea",
+    "latin_name": "Litsea cubeba",
+    "category": "柑橘類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "果實",
+    "origin": "中國、越南",
+    "description": "山雞椒精油有明亮檸檬果香，常用於除臭清潔、提振心情與油性肌膚保養。",
+    "main_effects": [
+      "提振情緒",
+      "除臭清潔",
+      "平衡油脂",
+      "淨化空氣",
+      "抗壓放鬆"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 3-5 滴，帶來亮麗果香。"
+      },
+      {
+        "method": "清潔",
+        "instruction": "加入居家噴霧作為天然除味配方。"
+      },
+      {
+        "method": "護膚",
+        "instruction": "稀釋至 0.5-1% 後局部使用。"
+      }
+    ],
+    "precautions": "可能刺激敏感肌，建議低濃度使用。",
+    "blends_well": [
+      2,
+      9,
+      43,
+      77
+    ],
+    "aroma_profile": "檸檬果香、清亮、草本",
+    "intensity": 7,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Litseacubebaflowers.jpg/330px-Litseacubebaflowers.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 78,
+    "chinese_name": "麥盧卡",
+    "english_name": "Manuka",
+    "latin_name": "Leptospermum scoparium",
+    "category": "草本類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "葉片",
+    "origin": "紐西蘭",
+    "description": "麥盧卡精油氣味草本溫潤，常用於皮膚淨化與舒緩，為茶樹之外的溫和替代選擇。",
+    "main_effects": [
+      "肌膚淨化",
+      "舒緩敏感",
+      "支持免疫",
+      "淨化空氣",
+      "局部修護"
+    ],
+    "usage_methods": [
+      {
+        "method": "局部塗抹",
+        "instruction": "稀釋至 1-2% 後點塗於問題肌膚。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 2-4 滴，保持空氣清新。"
+      },
+      {
+        "method": "清潔",
+        "instruction": "加入清潔噴霧，增強居家清潔感。"
+      }
+    ],
+    "precautions": "一般安全，首次使用先做局部測試。",
+    "blends_well": [
+      3,
+      5,
+      9,
+      78
+    ],
+    "aroma_profile": "草本、溫和、清新",
+    "intensity": 5,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/M%C4%81nuka_flowers_and_foliage_-_Hooton_Reserve%2C_Auckland.jpg/330px-M%C4%81nuka_flowers_and_foliage_-_Hooton_Reserve%2C_Auckland.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 79,
+    "chinese_name": "拉文莎拉",
+    "english_name": "Ravensara",
+    "latin_name": "Ravensara aromatica",
+    "category": "樟腦類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "葉片",
+    "origin": "馬達加斯加",
+    "description": "拉文莎拉精油清新微辛，常在季節交替時用於呼吸道支持與空氣淨化。",
+    "main_effects": [
+      "呼吸道支持",
+      "淨化空氣",
+      "提振精神",
+      "舒緩壓力",
+      "支持免疫"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 3-4 滴，有助維持清新空間。"
+      },
+      {
+        "method": "蒸氣吸嗅",
+        "instruction": "熱水中滴 1-2 滴吸嗅 5 分鐘。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1% 後塗抹胸口與背部。"
+      }
+    ],
+    "precautions": "避免過量，敏感族群建議先測試。",
+    "blends_well": [
+      5,
+      13,
+      27,
+      79
+    ],
+    "aroma_profile": "清新、草本、微辛",
+    "intensity": 6,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cryptocarya.PNG/330px-Cryptocarya.PNG",
+    "is_featured": false
+  },
+  {
+    "id": 80,
+    "chinese_name": "羅文莎葉",
+    "english_name": "Ravintsara",
+    "latin_name": "Cinnamomum camphora ct. cineole",
+    "category": "樟腦類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "葉片",
+    "origin": "馬達加斯加",
+    "description": "羅文莎葉精油具溫和樟腦草本香，是季節防護常見油之一，適合擴香與胸口按摩。",
+    "main_effects": [
+      "支持呼吸道",
+      "提升防護力",
+      "清新提神",
+      "淨化空氣",
+      "緩解疲憊"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 3-5 滴，於換季期間使用。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1-2% 塗抹胸口與背部。"
+      },
+      {
+        "method": "吸嗅",
+        "instruction": "滴 1 滴於手帕，隨時吸嗅。"
+      }
+    ],
+    "precautions": "幼兒使用請降低濃度，避免眼周。",
+    "blends_well": [
+      3,
+      5,
+      13,
+      80
+    ],
+    "aroma_profile": "草本、清新、樟腦",
+    "intensity": 6,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Cinnamomum_camphora20050314.jpg/330px-Cinnamomum_camphora20050314.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 81,
+    "chinese_name": "甘松",
+    "english_name": "Spikenard",
+    "latin_name": "Nardostachys jatamansi",
+    "category": "根莖類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "根部",
+    "origin": "尼泊爾、印度",
+    "description": "甘松精油香氣厚重沉穩，適合深度放鬆、冥想與睡前安撫，常用於心靈平衡配方。",
+    "main_effects": [
+      "深度放鬆",
+      "助眠",
+      "平衡情緒",
+      "冥想支持",
+      "護膚修護"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 1-2 滴，睡前使用效果佳。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1% 後按摩足底與後頸。"
+      },
+      {
+        "method": "護膚",
+        "instruction": "極低濃度加入晚間保養油。"
+      }
+    ],
+    "precautions": "香氣濃厚，少量使用即可。",
+    "blends_well": [
+      7,
+      19,
+      35,
+      81
+    ],
+    "aroma_profile": "土質、木質、沉穩",
+    "intensity": 8,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Nardostachys_grandiflora.jpg/330px-Nardostachys_grandiflora.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 82,
+    "chinese_name": "薑黃",
+    "english_name": "Turmeric",
+    "latin_name": "Curcuma longa",
+    "category": "根莖類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "根莖",
+    "origin": "印度、尼泊爾",
+    "description": "薑黃精油帶有乾爽辛香土氣，常用於運動恢復、關節保養與季節性防護。",
+    "main_effects": [
+      "舒緩不適",
+      "支持關節",
+      "促進循環",
+      "提振活力",
+      "抗氧化支持"
+    ],
+    "usage_methods": [
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1-2% 後塗抹關節與肌肉。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 2-3 滴，增添溫暖辛香氛圍。"
+      },
+      {
+        "method": "熱敷",
+        "instruction": "熱敷時加入 1 滴加強放鬆效果。"
+      }
+    ],
+    "precautions": "可能染色衣物。孕婦及服藥者請先諮詢。",
+    "blends_well": [
+      11,
+      24,
+      29,
+      82
+    ],
+    "aroma_profile": "辛香、土質、溫暖",
+    "intensity": 6,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Turmeric_inflorescence.jpg/330px-Turmeric_inflorescence.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 83,
+    "chinese_name": "橘子",
+    "english_name": "Tangerine",
+    "latin_name": "Citrus reticulata",
+    "category": "柑橘類",
+    "extraction_method": "冷壓法",
+    "plant_part": "果皮",
+    "origin": "巴西、美國",
+    "description": "橘子精油香氣溫暖甜美，適合家庭擴香與兒童環境，能溫和提振並舒緩情緒。",
+    "main_effects": [
+      "提振心情",
+      "舒緩焦慮",
+      "助眠",
+      "促進消化",
+      "空間清新"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 4-6 滴，營造溫暖果香。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 2% 按摩腹部。"
+      },
+      {
+        "method": "睡前吸嗅",
+        "instruction": "滴於擴香石，睡前放鬆使用。"
+      }
+    ],
+    "precautions": "具光敏性，塗抹後避免日曬。",
+    "blends_well": [
+      1,
+      2,
+      11,
+      83
+    ],
+    "aroma_profile": "甜橘、柔和、溫暖",
+    "intensity": 5,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/TangerineFruit.jpg/330px-TangerineFruit.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 84,
+    "chinese_name": "紅橘",
+    "english_name": "Mandarin",
+    "latin_name": "Citrus reticulata",
+    "category": "柑橘類",
+    "extraction_method": "冷壓法",
+    "plant_part": "果皮",
+    "origin": "義大利",
+    "description": "紅橘精油香氣柔甜圓潤，適合舒緩壓力與助眠，是親和度高的日常果香精油。",
+    "main_effects": [
+      "放鬆安撫",
+      "助眠",
+      "提振心情",
+      "促進消化",
+      "空間清新"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 3-5 滴，晚間使用更放鬆。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 2% 後腹部或足底按摩。"
+      },
+      {
+        "method": "沐浴",
+        "instruction": "加入 4-6 滴，舒緩壓力。"
+      }
+    ],
+    "precautions": "皮膚使用後避免陽光曝曬。",
+    "blends_well": [
+      1,
+      6,
+      10,
+      84
+    ],
+    "aroma_profile": "甜橘、圓潤、柔和",
+    "intensity": 5,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Citrus_reticulata_April_2013_Nordbaden.JPG/330px-Citrus_reticulata_April_2013_Nordbaden.JPG",
+    "is_featured": false
+  },
+  {
+    "id": 85,
+    "chinese_name": "青橘",
+    "english_name": "Red Mandarin",
+    "latin_name": "Citrus nobilis",
+    "category": "柑橘類",
+    "extraction_method": "冷壓法",
+    "plant_part": "果皮",
+    "origin": "義大利、法國",
+    "description": "紅橘（熟果）精油香甜柔和，常用於舒緩情緒與兒童夜間放鬆配方。",
+    "main_effects": [
+      "舒緩焦躁",
+      "助眠放鬆",
+      "提亮心情",
+      "促進消化",
+      "空間除味"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 3-5 滴，營造溫暖安心感。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1-2% 後按摩腹部和足底。"
+      },
+      {
+        "method": "沐浴",
+        "instruction": "加入 4 滴於晚間沐浴。"
+      }
+    ],
+    "precautions": "具光敏風險，皮膚使用後避免曝曬。",
+    "blends_well": [
+      1,
+      2,
+      6,
+      85
+    ],
+    "aroma_profile": "甜橘、柔甜、清新",
+    "intensity": 5,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Citrus_reticulata_April_2013_Nordbaden.JPG/330px-Citrus_reticulata_April_2013_Nordbaden.JPG",
+    "is_featured": false
+  },
+  {
+    "id": 86,
+    "chinese_name": "白冷杉",
+    "english_name": "White Fir",
+    "latin_name": "Abies alba",
+    "category": "木質類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "針葉",
+    "origin": "奧地利、法國",
+    "description": "白冷杉精油香氣潔淨且帶森林感，適合空氣淨化、專注工作與運動後舒緩。",
+    "main_effects": [
+      "清新空氣",
+      "支持呼吸道",
+      "提振專注",
+      "放鬆肌肉",
+      "舒緩疲勞"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 3-5 滴，提升空間清新度。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 2% 後按摩背部。"
+      },
+      {
+        "method": "泡澡",
+        "instruction": "加入 4-5 滴促進放鬆。"
+      }
+    ],
+    "precautions": "一般安全，敏感肌請先測試。",
+    "blends_well": [
+      5,
+      13,
+      52,
+      86
+    ],
+    "aroma_profile": "森林、清新、針葉",
+    "intensity": 6,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Abies_alba_Wis%C5%82a_1.jpg/330px-Abies_alba_Wis%C5%82a_1.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 87,
+    "chinese_name": "芳樟",
+    "english_name": "Ho Wood",
+    "latin_name": "Cinnamomum camphora ct. linalool",
+    "category": "木質類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "木材",
+    "origin": "中國、台灣",
+    "description": "芳樟精油富含沉香醇，香氣柔和花木調，適合情緒安撫與敏感肌調理。",
+    "main_effects": [
+      "舒緩情緒",
+      "助眠",
+      "溫和護膚",
+      "放鬆壓力",
+      "提升平衡感"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 2-4 滴，營造平靜氛圍。"
+      },
+      {
+        "method": "護膚",
+        "instruction": "稀釋至 0.5-1% 加入保養油。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1-2% 按摩肩頸與胸口。"
+      }
+    ],
+    "precautions": "一般安全，仍建議先做皮膚測試。",
+    "blends_well": [
+      1,
+      6,
+      8,
+      87
+    ],
+    "aroma_profile": "花木、柔和、清甜",
+    "intensity": 4,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Cinnamomum_camphora20050314.jpg/330px-Cinnamomum_camphora20050314.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 88,
+    "chinese_name": "聖木",
+    "english_name": "Palo Santo",
+    "latin_name": "Bursera graveolens",
+    "category": "木質類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "木材",
+    "origin": "厄瓜多、秘魯",
+    "description": "聖木精油帶有柑橘木質與樹脂甜感，常用於靜心、空間淨化與冥想儀式。",
+    "main_effects": [
+      "靜心冥想",
+      "空間淨化",
+      "舒緩壓力",
+      "平衡情緒",
+      "提升專注"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 2-3 滴，營造沉穩平靜空間。"
+      },
+      {
+        "method": "脈搏點",
+        "instruction": "稀釋後塗抹手腕與後頸，幫助安定。"
+      },
+      {
+        "method": "香氛調配",
+        "instruction": "作為後調增加木質深度。"
+      }
+    ],
+    "precautions": "一般安全，建議低濃度使用。",
+    "blends_well": [
+      7,
+      19,
+      35,
+      88
+    ],
+    "aroma_profile": "木質、樹脂、微甜柑橘",
+    "intensity": 6,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Bursera_graveolens.jpg/330px-Bursera_graveolens.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 89,
+    "chinese_name": "八角茴香",
+    "english_name": "Star Anise",
+    "latin_name": "Illicium verum",
+    "category": "辛香類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "果實",
+    "origin": "中國、越南",
+    "description": "八角茴香精油氣味甜辛濃郁，常見於暖身與節慶氛圍配方，少量即可呈現層次。",
+    "main_effects": [
+      "暖身",
+      "促進消化",
+      "提振精神",
+      "季節防護",
+      "香氛調配"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 1-2 滴即可，建議搭配柑橘。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 0.5-1% 後腹部按摩。"
+      },
+      {
+        "method": "清潔",
+        "instruction": "加入清潔液增添辛香暖感。"
+      }
+    ],
+    "precautions": "孕婦與幼兒避免使用，使用前務必稀釋。",
+    "blends_well": [
+      11,
+      24,
+      29,
+      89
+    ],
+    "aroma_profile": "甜辛、茴香、濃郁",
+    "intensity": 8,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Illicium_verum_1zz.jpg/330px-Illicium_verum_1zz.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 90,
+    "chinese_name": "茴香",
+    "english_name": "Anise",
+    "latin_name": "Pimpinella anisum",
+    "category": "辛香類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "種子",
+    "origin": "西班牙、土耳其",
+    "description": "茴香精油帶有甜辣甘草香，常用於消化支持與暖身配方，香氣辨識度高。",
+    "main_effects": [
+      "促進消化",
+      "緩解脹氣",
+      "暖身",
+      "舒緩緊張",
+      "香氛調配"
+    ],
+    "usage_methods": [
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1% 後按摩腹部。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 1-2 滴搭配柑橘精油。"
+      },
+      {
+        "method": "熱敷",
+        "instruction": "腹部熱敷時加入 1 滴。"
+      }
+    ],
+    "precautions": "孕婦與荷爾蒙敏感族群避免使用。",
+    "blends_well": [
+      29,
+      39,
+      56,
+      90
+    ],
+    "aroma_profile": "甘草甜香、辛暖、草本",
+    "intensity": 7,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Koehler1887-PimpinellaAnisum.jpg/330px-Koehler1887-PimpinellaAnisum.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 91,
+    "chinese_name": "阿卓灣",
+    "english_name": "Ajowan",
+    "latin_name": "Trachyspermum ammi",
+    "category": "辛香類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "種子",
+    "origin": "印度",
+    "description": "阿卓灣精油具有強烈辛香草本氣息，傳統上用於消化與季節防護，需低劑量使用。",
+    "main_effects": [
+      "支持消化",
+      "暖身",
+      "淨化空氣",
+      "支持免疫",
+      "提振活力"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 1 滴搭配其他精油即可。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "務必稀釋至 0.25-0.5% 後使用。"
+      },
+      {
+        "method": "熱敷",
+        "instruction": "加入 1 滴於熱敷水中短時間使用。"
+      }
+    ],
+    "precautions": "刺激性較高，孕婦及敏感肌避免使用。",
+    "blends_well": [
+      24,
+      27,
+      29,
+      91
+    ],
+    "aroma_profile": "辛辣、草本、濃烈",
+    "intensity": 9,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Carom_Flowers.jpg/330px-Carom_Flowers.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 92,
+    "chinese_name": "卡布瑞瓦木",
+    "english_name": "Cabreuva",
+    "latin_name": "Myrocarpus fastigiatus",
+    "category": "木質類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "木材",
+    "origin": "巴西",
+    "description": "卡布瑞瓦木精油帶有柔甜木質花香，常用於香氛調配與情緒放鬆。",
+    "main_effects": [
+      "安定情緒",
+      "香氛調配",
+      "放鬆壓力",
+      "護膚支持",
+      "助眠"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 2-4 滴，營造柔和氛圍。"
+      },
+      {
+        "method": "護膚",
+        "instruction": "稀釋至 0.5-1% 後加入乳液。"
+      },
+      {
+        "method": "香氛",
+        "instruction": "作為中後調增加溫潤感。"
+      }
+    ],
+    "precautions": "一般安全，初次使用建議先測試。",
+    "blends_well": [
+      6,
+      8,
+      16,
+      92
+    ],
+    "aroma_profile": "木質、花甜、柔和",
+    "intensity": 4,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Myrocarpus_frondosus_Taub101b.png/330px-Myrocarpus_frondosus_Taub101b.png",
+    "is_featured": false
+  },
+  {
+    "id": 93,
+    "chinese_name": "秘魯香脂",
+    "english_name": "Peru Balsam",
+    "latin_name": "Myroxylon balsamum",
+    "category": "樹脂類",
+    "extraction_method": "溶劑萃取",
+    "plant_part": "樹脂",
+    "origin": "薩爾瓦多",
+    "description": "秘魯香脂精油散發香草焦糖般甜暖氣息，常用於舒壓、冬季擴香和香氛定香。",
+    "main_effects": [
+      "舒緩壓力",
+      "助眠",
+      "香氛定香",
+      "暖心氛圍",
+      "支持修護"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 1-2 滴即可，甜暖感明顯。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1% 後按摩胸口或背部。"
+      },
+      {
+        "method": "香氛調配",
+        "instruction": "作為後調提升厚度與持久度。"
+      }
+    ],
+    "precautions": "可能造成過敏，使用前請先做斑貼測試。",
+    "blends_well": [
+      7,
+      19,
+      24,
+      93
+    ],
+    "aroma_profile": "香草甜暖、樹脂、柔甜",
+    "intensity": 7,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Myroxylon_balsamum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-140.jpg/330px-Myroxylon_balsamum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-140.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 94,
+    "chinese_name": "沒藥樹脂",
+    "english_name": "Opoponax",
+    "latin_name": "Commiphora erythraea",
+    "category": "樹脂類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "樹脂",
+    "origin": "索馬利亞、衣索比亞",
+    "description": "沒藥樹脂精油香氣厚實且帶甜苦樹脂感，適合冥想、深度放鬆與香氛調配。",
+    "main_effects": [
+      "深度放鬆",
+      "冥想支持",
+      "安定情緒",
+      "香氛定香",
+      "睡前舒壓"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 1-2 滴，營造靜心空間。"
+      },
+      {
+        "method": "脈搏點",
+        "instruction": "稀釋後塗抹胸口與手腕。"
+      },
+      {
+        "method": "香氛調配",
+        "instruction": "作為後調增加樹脂深度。"
+      }
+    ],
+    "precautions": "孕婦避免使用。香氣濃厚，低量即可。",
+    "blends_well": [
+      7,
+      18,
+      35,
+      94
+    ],
+    "aroma_profile": "樹脂、苦甜、厚實",
+    "intensity": 8,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Opoponax1.JPG/330px-Opoponax1.JPG",
+    "is_featured": false
+  },
+  {
+    "id": 95,
+    "chinese_name": "白松香",
+    "english_name": "Galbanum",
+    "latin_name": "Ferula galbaniflua",
+    "category": "樹脂類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "樹脂",
+    "origin": "伊朗",
+    "description": "白松香精油具鮮綠樹脂調，常用於呼吸道支持與香氛提亮，可增加配方的綠意層次。",
+    "main_effects": [
+      "支持呼吸道",
+      "淨化空間",
+      "提振專注",
+      "舒緩壓力",
+      "香氛調配"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 1-3 滴，搭配木質調效果佳。"
+      },
+      {
+        "method": "蒸氣吸嗅",
+        "instruction": "熱水中滴 1 滴短時間吸嗅。"
+      },
+      {
+        "method": "香氛調配",
+        "instruction": "作為中調增加綠色氣息。"
+      }
+    ],
+    "precautions": "敏感肌需先測試，避免過量使用。",
+    "blends_well": [
+      5,
+      7,
+      13,
+      95
+    ],
+    "aroma_profile": "綠意、樹脂、清新",
+    "intensity": 7,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ferula_gummosa_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-205.jpg/330px-Ferula_gummosa_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-205.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 96,
+    "chinese_name": "欖香脂",
+    "english_name": "Elemi",
+    "latin_name": "Canarium luzonicum",
+    "category": "樹脂類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "樹脂",
+    "origin": "菲律賓",
+    "description": "欖香脂精油氣味介於乳香與柑橘間，清爽而具樹脂厚度，適合護膚與放鬆使用。",
+    "main_effects": [
+      "護膚修護",
+      "平衡情緒",
+      "支持呼吸道",
+      "舒緩壓力",
+      "香氛調和"
+    ],
+    "usage_methods": [
+      {
+        "method": "護膚",
+        "instruction": "稀釋至 0.5-1% 加入晚間保養品。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 2-3 滴，清新且沉穩。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1% 按摩肩頸與胸口。"
+      }
+    ],
+    "precautions": "一般安全，建議稀釋使用。",
+    "blends_well": [
+      7,
+      8,
+      11,
+      96
+    ],
+    "aroma_profile": "樹脂、清新、微柑橘",
+    "intensity": 5,
     "image_url": null,
+    "is_featured": false
+  },
+  {
+    "id": 97,
+    "chinese_name": "胡蘿蔔籽",
+    "english_name": "Carrot Seed",
+    "latin_name": "Daucus carota",
+    "category": "根莖類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "種子",
+    "origin": "法國、印度",
+    "description": "胡蘿蔔籽精油常見於熟齡與乾燥肌保養配方，可提升肌膚光澤與修護力。",
+    "main_effects": [
+      "護膚修護",
+      "平衡油脂",
+      "抗氧化支持",
+      "促進循環",
+      "調理膚況"
+    ],
+    "usage_methods": [
+      {
+        "method": "護膚",
+        "instruction": "稀釋至 0.5-1% 加入面油或乳霜。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋後按摩臉部與頸部。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 1-2 滴搭配花香油柔化氣味。"
+      }
+    ],
+    "precautions": "孕婦避免使用，敏感肌先測試。",
+    "blends_well": [
+      6,
+      10,
+      30,
+      97
+    ],
+    "aroma_profile": "土質、草本、微甜",
+    "intensity": 5,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Daucus_carota_May_2008-1_edit.jpg/330px-Daucus_carota_May_2008-1_edit.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 98,
+    "chinese_name": "岩玫瑰",
+    "english_name": "Cistus",
+    "latin_name": "Cistus ladaniferus",
+    "category": "樹脂類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "枝葉",
+    "origin": "西班牙、葡萄牙",
+    "description": "岩玫瑰精油具有乾燥樹脂與草本調，常用於熟齡護膚、收斂保養與情緒安定。",
+    "main_effects": [
+      "護膚收斂",
+      "修護支持",
+      "安定情緒",
+      "抗氧化支持",
+      "香氛定香"
+    ],
+    "usage_methods": [
+      {
+        "method": "護膚",
+        "instruction": "稀釋至 0.5-1% 後局部保養。"
+      },
+      {
+        "method": "擴香",
+        "instruction": "加入 1-2 滴，營造沉靜氛圍。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋後塗抹頸部與胸口。"
+      }
+    ],
+    "precautions": "一般安全，建議低濃度使用。",
+    "blends_well": [
+      7,
+      18,
+      30,
+      98
+    ],
+    "aroma_profile": "樹脂、草本、乾燥",
+    "intensity": 6,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cistus_April_2017-2.jpg/330px-Cistus_April_2017-2.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 99,
+    "chinese_name": "西印度檀香",
+    "english_name": "Amyris",
+    "latin_name": "Amyris balsamifera",
+    "category": "木質類",
+    "extraction_method": "蒸餾法",
+    "plant_part": "木材",
+    "origin": "海地、牙買加",
+    "description": "西印度檀香精油帶有柔和木甜香，常作為檀香替代選項，適合放鬆與睡前配方。",
+    "main_effects": [
+      "放鬆助眠",
+      "安定情緒",
+      "香氛定香",
+      "冥想支持",
+      "舒緩壓力"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 2-4 滴，營造溫暖沉穩感。"
+      },
+      {
+        "method": "按摩",
+        "instruction": "稀釋至 1-2% 後按摩足底與肩頸。"
+      },
+      {
+        "method": "香氛調配",
+        "instruction": "作為後調增加持香度。"
+      }
+    ],
+    "precautions": "一般安全，建議稀釋使用。",
+    "blends_well": [
+      7,
+      19,
+      35,
+      99
+    ],
+    "aroma_profile": "木質、柔甜、沉穩",
+    "intensity": 5,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Amyris_texana_side.jpg/330px-Amyris_texana_side.jpg",
+    "is_featured": false
+  },
+  {
+    "id": 100,
+    "chinese_name": "晚香玉",
+    "english_name": "Tuberose",
+    "latin_name": "Polianthes tuberosa",
+    "category": "花香類",
+    "extraction_method": "溶劑萃取",
+    "plant_part": "花朵",
+    "origin": "印度、法國",
+    "description": "晚香玉精油花香濃郁華麗，常用於高級香氛與情緒調理，少量即可展現明顯存在感。",
+    "main_effects": [
+      "香氛調配",
+      "安撫情緒",
+      "提升幸福感",
+      "助眠放鬆",
+      "女性保養"
+    ],
+    "usage_methods": [
+      {
+        "method": "擴香",
+        "instruction": "加入 1 滴即可，避免香氣過重。"
+      },
+      {
+        "method": "脈搏點",
+        "instruction": "稀釋後塗抹耳後與手腕。"
+      },
+      {
+        "method": "香氛調香",
+        "instruction": "作為核心花香調使用。"
+      }
+    ],
+    "precautions": "香氣非常濃郁，建議低劑量並先測試。",
+    "blends_well": [
+      6,
+      12,
+      31,
+      100
+    ],
+    "aroma_profile": "濃郁花香、甜美、華麗",
+    "intensity": 9,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Tuberose_flower.jpg/330px-Tuberose_flower.jpg",
     "is_featured": false
   }
 ]

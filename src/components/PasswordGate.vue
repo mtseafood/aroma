@@ -4,8 +4,8 @@
       <!-- Logo -->
       <div class="text-center mb-8">
         <div class="text-6xl mb-3">🌿</div>
-        <h1 class="text-2xl font-bold text-primary-600">精油百科</h1>
-        <p class="text-sm text-gray-400 mt-1">探索自然的療癒力量</p>
+        <h1 class="text-2xl font-bold text-primary-600">好好療癒</h1>
+        <p class="text-sm text-gray-400 mt-1">Hao Hao Healing Studio</p>
       </div>
 
       <!-- Form -->
