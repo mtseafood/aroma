@@ -1,18 +1,19 @@
 <template>
   <div class="flex flex-col h-screen">
     <!-- Header -->
-    <div class="px-4 pt-6 pb-3 bg-cream">
-      <h1 class="text-xl font-bold text-gray-800 mb-3">精油百科</h1>
+    <div class="px-5 pt-10 pb-3 bg-gradient-to-b from-stone-50 to-cream">
+      <p class="text-[10px] tracking-[0.2em] text-primary-400 uppercase mb-1">Encyclopedia</p>
+      <h1 class="text-2xl font-light text-stone-800 tracking-wide mb-4">精油百科</h1>
       <SearchBar v-model="store.searchQuery" class="mb-3" />
       <!-- Category chips -->
       <div class="flex gap-2 overflow-x-auto no-scrollbar pb-1">
         <button v-for="cat in categories" :key="String(cat.value)"
           @click="store.selectedCategory = cat.value"
           :class="[
-            'flex-shrink-0 px-3 py-1.5 rounded-full text-xs font-medium transition-colors',
+            'flex-shrink-0 px-3 py-1.5 rounded-full text-xs tracking-wide transition-colors',
             store.selectedCategory === cat.value
-              ? 'bg-primary-500 text-white'
-              : 'bg-white text-gray-600 border border-gray-200'
+              ? 'bg-stone-800 text-white'
+              : 'bg-white text-stone-500 border border-stone-200'
           ]">
           {{ cat.label }}
         </button>
@@ -20,7 +21,7 @@
     </div>
 
     <!-- Count -->
-    <div class="px-4 py-2 text-xs text-gray-400 bg-cream">
+    <div class="px-5 py-2 text-xs text-stone-300 tracking-wide bg-cream">
       共 {{ filteredOils.length }} 種精油
     </div>
 

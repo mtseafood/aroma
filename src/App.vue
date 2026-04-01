@@ -20,6 +20,8 @@ const authenticated = ref(localStorage.getItem('aroma_auth') === '1')
 </script>
 
 <style>
-.fade-enter-active, .fade-leave-active { transition: opacity 0.15s ease; }
-.fade-enter-from, .fade-leave-to { opacity: 0; }
+.fade-enter-active { transition: opacity 0.2s ease, transform 0.2s ease; }
+.fade-leave-active  { transition: opacity 0.15s ease; }
+.fade-enter-from    { opacity: 0; transform: translateY(6px); }
+.fade-leave-to      { opacity: 0; }
 </style>
