@@ -8,15 +8,15 @@ export const useOilsStore = defineStore('oils', () => {
   const selectedCategory = ref(null)
 
   const categories = [
-    { value: null,  label: '全部', icon: '✨' },
-    { value: '花香類', label: '花香類', icon: '🌸' },
-    { value: '木質類', label: '木質類', icon: '🌲' },
-    { value: '柑橘類', label: '柑橘類', icon: '🍊' },
-    { value: '草本類', label: '草本類', icon: '🌿' },
-    { value: '樹脂類', label: '樹脂類', icon: '💧' },
-    { value: '辛香類', label: '辛香類', icon: '🌶️' },
-    { value: '樟腦類', label: '樟腦類', icon: '🍃' },
-    { value: '土質類', label: '土質類', icon: '🌍' },
+    { value: null,     label: '全部' },
+    { value: '花香類', label: '花香類' },
+    { value: '木質類', label: '木質類' },
+    { value: '柑橘類', label: '柑橘類' },
+    { value: '草本類', label: '草本類' },
+    { value: '樹脂類', label: '樹脂類' },
+    { value: '辛香類', label: '辛香類' },
+    { value: '樟腦類', label: '樟腦類' },
+    { value: '土質類', label: '土質類' },
   ]
 
   const filteredOils = computed(() => {

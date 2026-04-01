@@ -14,7 +14,7 @@
               ? 'bg-primary-500 text-white'
               : 'bg-white text-gray-600 border border-gray-200'
           ]">
-          {{ cat.icon }} {{ cat.label }}
+          {{ cat.label }}
         </button>
       </div>
     </div>
@@ -29,10 +29,12 @@
       <div v-if="filteredOils.length" class="space-y-2">
         <OilCard v-for="oil in filteredOils" :key="oil.id" :oil="oil" />
       </div>
-      <div v-else class="flex flex-col items-center justify-center py-20 text-gray-400">
-        <span class="text-5xl mb-3">🌿</span>
-        <p class="text-sm">找不到符合的精油</p>
-        <p class="text-xs mt-1">請嘗試不同的搜尋條件</p>
+      <div v-else class="flex flex-col items-center justify-center py-20 text-stone-300">
+        <svg class="w-10 h-10 mb-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z"/>
+        </svg>
+        <p class="text-sm text-stone-400">找不到符合的精油</p>
+        <p class="text-xs mt-1 text-stone-300 tracking-wide">請嘗試不同的搜尋條件</p>
       </div>
     </div>
   </div>
