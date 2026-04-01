@@ -2,8 +2,8 @@
   <div>
     <!-- Header -->
     <div class="bg-gradient-to-b from-stone-50 to-white px-8 pt-12 pb-8 text-center">
-      <p class="text-[10px] tracking-[0.2em] text-primary-400 uppercase mb-3">Services</p>
-      <h1 class="text-2xl font-light text-stone-800 tracking-wide">服務項目</h1>
+      <NahaBadge class="mb-5" />
+      <h1 class="text-2xl font-light text-stone-800 tracking-wide mt-1">服務項目</h1>
       <p class="text-xs text-stone-400 mt-2">每一個療程，都是給自己的禮物</p>
     </div>
 
@@ -39,11 +39,21 @@
             </div>
           </div>
 
-          <div class="mt-5 pt-4 border-t border-stone-200 flex items-center justify-between">
-            <p class="text-xs text-stone-400">{{ service.duration }}</p>
+          <!-- Pricing + CTA -->
+          <div class="mt-5 pt-4 border-t border-stone-200 space-y-3">
+            <div class="flex items-end justify-between">
+              <div>
+                <p class="text-[10px] tracking-widest text-stone-300 uppercase mb-1">時長</p>
+                <p class="text-xs text-stone-500">{{ service.duration }}</p>
+              </div>
+              <div class="text-right">
+                <p class="text-[10px] tracking-widest text-stone-300 uppercase mb-1">費用</p>
+                <p class="text-sm font-medium text-stone-700">{{ service.price }}</p>
+              </div>
+            </div>
             <router-link to="/about"
-              class="text-xs border border-stone-800 text-stone-800 px-5 py-2 rounded-full tracking-wide active:scale-95 transition-transform">
-              預約諮詢
+              class="block w-full text-center text-[10px] tracking-[0.2em] uppercase border border-stone-800 text-stone-800 py-3 rounded-full active:scale-95 transition-transform">
+              預約諮詢 →
             </router-link>
           </div>
         </div>
@@ -60,12 +70,15 @@
 </template>
 
 <script setup>
+import NahaBadge from '@/components/NahaBadge.vue'
+
 const services = [
   {
     en: 'Aromatherapy',
     title: '芳香療法療程',
     badge: 'NAHA 認證',
     duration: '60 / 90 分鐘',
+    price: 'NT$ 2,500 / 3,500',
     image: '/images/aromatherapy.jpg',
     desc: '透過專業調配的精油複方，結合芳香按摩或擴香，舒緩身體緊繃、平衡情緒狀態。每一瓶配方都根據你當下的身心需求量身打造。',
     includes: [
@@ -80,6 +93,7 @@ const services = [
     title: '頌缽聲音療癒',
     badge: null,
     duration: '45 / 60 分鐘',
+    price: 'NT$ 1,800 / 2,400',
     image: '/images/singing-bowl.jpg',
     desc: '西藏頌缽發出的純淨振動頻率，深入身體每個細胞，協助釋放長期累積的緊繃與壓力，帶來深層放鬆與內在平靜。',
     includes: [
@@ -94,6 +108,7 @@ const services = [
     title: '精油配方諮詢',
     badge: null,
     duration: '30 分鐘',
+    price: 'NT$ 800',
     image: '/images/consultation.jpg',
     desc: '針對你的具體需求，由 Jacqueline 提供專業精油選用建議，並調配適合你的個人複方精油。',
     includes: [

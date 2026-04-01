@@ -1,15 +1,20 @@
 <template>
   <div v-if="oil">
-    <!-- Hero -->
-    <div class="relative bg-gradient-to-b from-stone-50 to-white pt-12 pb-8 px-4 text-center">
-      <button @click="router.back()" class="absolute top-4 left-4 w-9 h-9 bg-white rounded-full flex items-center justify-center shadow-sm">
+    <!-- Hero — category-tinted background -->
+    <div class="relative pt-12 pb-8 px-4 text-center transition-colors duration-300"
+      :style="{ background: `linear-gradient(to bottom, rgb(${oilMeta.heroRgb}), white)` }">
+      <button @click="router.back()" class="absolute top-4 left-4 w-9 h-9 bg-white/80 backdrop-blur-sm rounded-full flex items-center justify-center shadow-sm">
         <svg class="w-5 h-5 text-stone-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15 19l-7-7 7-7"/>
         </svg>
       </button>
-      <button @click="favorites.toggle(oil.id)"
-        class="absolute top-4 right-4 w-9 h-9 bg-white rounded-full flex items-center justify-center shadow-sm">
-        <svg class="w-5 h-5 transition-colors" :class="favorites.isFavorited(oil.id) ? 'text-red-400 fill-red-400' : 'text-stone-300'"
+      <button @click="toggleFavorite"
+        class="absolute top-4 right-4 w-9 h-9 bg-white/80 backdrop-blur-sm rounded-full flex items-center justify-center shadow-sm">
+        <svg class="w-5 h-5 transition-colors"
+          :class="[
+            favorites.isFavorited(oil.id) ? 'text-red-400 fill-red-400' : 'text-stone-300',
+            heartbeating ? 'animate-heartbeat' : ''
+          ]"
           fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
             d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/>
@@ -17,7 +22,7 @@
       </button>
 
       <!-- Category badge -->
-      <div :class="[oilMeta.bg, 'w-20 h-20 mx-auto rounded-2xl flex items-center justify-center mb-5']">
+      <div :class="[oilMeta.bg, 'w-20 h-20 mx-auto rounded-2xl flex items-center justify-center mb-5 shadow-sm']">
         <span :class="[oilMeta.text, 'text-3xl font-light tracking-wide']">{{ oilMeta.char }}</span>
       </div>
 
@@ -150,6 +155,15 @@ const oil = computed(() => oilsStore.getOil(route.params.id))
 const related = computed(() => oil.value ? oilsStore.getRelated(oil.value.blends_well) : [])
 const oilMeta = computed(() => categoryMeta(oil.value?.category))
 function relatedMeta(cat) { return categoryMeta(cat) }
+
+const heartbeating = ref(false)
+function toggleFavorite() {
+  favorites.toggle(oil.value.id)
+  if (favorites.isFavorited(oil.value.id)) {
+    heartbeating.value = true
+    setTimeout(() => { heartbeating.value = false }, 600)
+  }
+}
 
 const expanded = ref(new Set())
 function toggleMethod(name) {

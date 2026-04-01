@@ -1,21 +1,32 @@
 <template>
   <div>
     <!-- Hero -->
-    <div class="relative bg-gradient-to-b from-stone-50 to-white px-8 pt-14 pb-10 text-center">
-      <span class="inline-block text-[10px] tracking-[0.2em] text-primary-400 font-medium uppercase mb-6">
-        NAHA Certified Aromatherapist
-      </span>
-      <h1 class="text-4xl font-light text-stone-800 tracking-widest mb-1">好好療癒</h1>
-      <p class="text-xs tracking-[0.15em] text-stone-400 uppercase mb-8">Hao Hao Healing Studio</p>
-      <p class="text-sm text-stone-500 leading-loose max-w-xs mx-auto">
-        讓自己好好停下來<br>
-        被香氣與聲音輕輕包覆<br>
-        回到最真實的自己
+    <div class="relative bg-gradient-to-b from-stone-50 to-white px-8 pt-16 pb-12 text-center overflow-hidden">
+      <!-- Dot texture overlay -->
+      <div class="absolute inset-0 hero-texture opacity-100 pointer-events-none"></div>
+
+      <div class="relative">
+        <NahaBadge class="mb-7" />
+        <h1 class="text-5xl font-light text-stone-800 tracking-widest mb-2">好好療癒</h1>
+        <p class="text-[10px] tracking-[0.25em] text-stone-400 uppercase mb-8">Hao Hao Healing Studio</p>
+        <p class="text-sm text-stone-500 leading-[2] max-w-xs mx-auto">
+          讓自己好好停下來<br>
+          被香氣與聲音輕輕包覆<br>
+          回到最真實的自己
+        </p>
+        <router-link to="/services"
+          class="inline-block mt-8 border border-primary-400 text-primary-500 text-[10px] tracking-widest uppercase px-10 py-3 hover:bg-primary-500 hover:text-white transition-colors active:scale-95 duration-150">
+          探索服務
+        </router-link>
+      </div>
+    </div>
+
+    <!-- Philosophy strip -->
+    <div class="bg-stone-800 px-8 py-5 text-center">
+      <p class="text-xs text-stone-300 tracking-[0.2em] leading-loose">
+        「療癒不是奢侈，是每個人都值得給自己的禮物」
       </p>
-      <router-link to="/services"
-        class="inline-block mt-8 border border-primary-400 text-primary-500 text-xs tracking-widest uppercase px-8 py-3 hover:bg-primary-500 hover:text-white transition-colors active:scale-95 duration-150">
-        探索服務
-      </router-link>
+      <p class="text-[10px] tracking-widest text-stone-500 mt-1.5 uppercase">— Jacqueline</p>
     </div>
 
     <div class="px-5 py-8 space-y-10">
@@ -98,6 +109,7 @@
 import { useOilsStore } from '@/stores/oils'
 import { storeToRefs } from 'pinia'
 import FeaturedCard from '@/components/FeaturedCard.vue'
+import NahaBadge from '@/components/NahaBadge.vue'
 
 const { featuredOils } = storeToRefs(useOilsStore())
 

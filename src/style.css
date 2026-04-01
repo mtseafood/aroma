@@ -27,6 +27,22 @@
   }
 }
 
+/* Heartbeat animation for favorite button */
+@keyframes heartbeat {
+  0%   { transform: scale(1); }
+  25%  { transform: scale(1.35); }
+  50%  { transform: scale(0.92); }
+  75%  { transform: scale(1.15); }
+  100% { transform: scale(1); }
+}
+.animate-heartbeat { animation: heartbeat 0.5s ease; }
+
+/* Hero dot texture */
+.hero-texture {
+  background-image: radial-gradient(circle, rgba(100,80,50,0.055) 1px, transparent 1px);
+  background-size: 22px 22px;
+}
+
 /* Mobile bottom nav safe area */
 .safe-bottom { padding-bottom: env(safe-area-inset-bottom, 0); }
 
