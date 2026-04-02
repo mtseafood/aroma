@@ -6,9 +6,13 @@
       <div class="absolute inset-0 hero-texture opacity-100 pointer-events-none"></div>
 
       <div class="relative">
-        <NahaBadge class="mb-8" />
-        <h1 class="text-5xl font-serif font-light tracking-widest mb-2 text-gold">好好療癒</h1>
-        <p class="text-[10px] tracking-[0.25em] text-stone-400 uppercase mb-9">Hao Hao Healing Studio</p>
+        <NahaBadge class="mb-10" />
+
+        <!-- Title -->
+        <div class="mb-9">
+          <h1 class="text-5xl font-serif font-light tracking-[0.2em] text-gold leading-none mb-3">好好療癒</h1>
+          <p class="text-[9px] tracking-[0.35em] text-stone-400 uppercase">Hao Hao Healing Studio</p>
+        </div>
         <p class="text-sm text-stone-500 leading-[2.2] max-w-xs mx-auto">
           讓自己好好停下來<br>
           被香氣與聲音輕輕包覆<br>

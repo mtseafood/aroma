@@ -30,7 +30,7 @@ export default {
       },
       fontFamily: {
         sans:  ['"Noto Sans TC"', 'PingFang TC', 'sans-serif'],
-        serif: ['"Noto Serif TC"', 'Georgia', 'serif'],
+        serif: ['"LXGW WenKai TC"', '"Noto Serif TC"', 'Georgia', 'serif'],
       },
     },
   },
