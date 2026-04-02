@@ -1,23 +1,19 @@
 <template>
   <PasswordGate v-if="!authenticated" @authenticated="authenticated = true" />
 
-  <div v-else class="min-h-screen bg-cream">
-    <TopNav class="hidden md:block" />
-    <div class="pb-20 md:pb-0 md:pt-16">
-      <router-view v-slot="{ Component }">
-        <transition name="fade" mode="out-in">
-          <component :is="Component" />
-        </transition>
-      </router-view>
-    </div>
-    <BottomNav class="md:hidden" />
+  <div v-else class="max-w-lg mx-auto min-h-screen pb-20">
+    <router-view v-slot="{ Component }">
+      <transition name="fade" mode="out-in">
+        <component :is="Component" />
+      </transition>
+    </router-view>
+    <BottomNav />
   </div>
 </template>
 
 <script setup>
 import { ref } from 'vue'
 import BottomNav from '@/components/BottomNav.vue'
-import TopNav from '@/components/TopNav.vue'
 import PasswordGate from '@/components/PasswordGate.vue'
 
 const authenticated = ref(localStorage.getItem('aroma_auth') === '1')
