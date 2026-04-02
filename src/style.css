@@ -46,6 +46,23 @@
 /* Mobile bottom nav safe area */
 .safe-bottom { padding-bottom: env(safe-area-inset-bottom, 0); }
 
+/* Gold gradient utilities */
+.text-gold {
+  background: linear-gradient(135deg, #b8902a, #e8c97a, #c9a84c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.border-gold {
+  border-image: linear-gradient(135deg, #b8902a, #e8c97a, #b8902a) 1;
+}
+.bg-gold-gradient {
+  background: linear-gradient(135deg, #b8902a, #e8d080, #b8902a);
+}
+.divider-gold {
+  background: linear-gradient(to right, transparent, #d4a843, transparent);
+}
+
 /* Scrollbar hide */
 .no-scrollbar::-webkit-scrollbar { display: none; }
 .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }

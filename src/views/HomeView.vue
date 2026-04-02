@@ -7,7 +7,7 @@
 
       <div class="relative">
         <NahaBadge class="mb-8" />
-        <h1 class="text-5xl font-serif font-light text-stone-800 tracking-widest mb-2">好好療癒</h1>
+        <h1 class="text-5xl font-serif font-light tracking-widest mb-2 text-gold">好好療癒</h1>
         <p class="text-[10px] tracking-[0.25em] text-stone-400 uppercase mb-9">Hao Hao Healing Studio</p>
         <p class="text-sm text-stone-500 leading-[2.2] max-w-xs mx-auto">
           讓自己好好停下來<br>
@@ -15,18 +15,21 @@
           回到最真實的自己
         </p>
         <router-link to="/services"
-          class="inline-block mt-9 border border-primary-400 text-primary-500 text-[10px] tracking-widest uppercase px-10 py-3 hover:bg-primary-500 hover:text-white transition-colors active:scale-95 duration-150">
+          class="inline-block mt-9 text-[10px] tracking-widest uppercase px-10 py-3 active:scale-95 duration-150 transition-transform"
+          style="border: 1px solid #c9a84c; color: #b8902a;">
           探索服務
         </router-link>
       </div>
     </div>
 
     <!-- Philosophy strip -->
-    <div class="bg-stone-800 px-8 py-6 text-center">
-      <p class="text-xs text-stone-300 tracking-[0.2em] leading-loose">
+    <div class="px-8 py-6 text-center" style="background: linear-gradient(135deg, #1a1a14, #2a2416, #1a1a14);">
+      <div class="w-8 h-px divider-gold mx-auto mb-4 opacity-60"></div>
+      <p class="text-xs tracking-[0.2em] leading-loose text-gold">
         「療癒不是奢侈，是每個人都值得給自己的禮物」
       </p>
       <p class="text-[10px] tracking-widest text-stone-500 mt-2 uppercase">— Jacqueline</p>
+      <div class="w-8 h-px divider-gold mx-auto mt-4 opacity-60"></div>
     </div>
 
     <!-- Brand trust strip -->
@@ -67,16 +70,16 @@
 
       <!-- Divider -->
       <div class="flex items-center gap-4">
-        <div class="flex-1 h-px bg-stone-100"></div>
-        <span class="text-[10px] tracking-widest text-stone-300 uppercase">Services</span>
-        <div class="flex-1 h-px bg-stone-100"></div>
+        <div class="flex-1 h-px divider-gold opacity-40"></div>
+        <span class="text-[10px] tracking-widest uppercase" style="color: #c9a84c;">Services</span>
+        <div class="flex-1 h-px divider-gold opacity-40"></div>
       </div>
 
       <!-- Services -->
       <section class="grid grid-cols-2 gap-3">
         <router-link to="/services" v-for="s in services" :key="s.title"
           class="p-5 bg-white rounded-xl border border-stone-100 active:scale-95 transition-transform">
-          <div class="text-xs tracking-widest text-primary-400 uppercase mb-2">{{ s.en }}</div>
+          <div class="text-xs tracking-widest uppercase mb-2" style="color: #c9a84c;">{{ s.en }}</div>
           <div class="font-semibold text-stone-700 text-sm">{{ s.title }}</div>
           <div class="text-xs text-stone-400 mt-1.5">{{ s.sub }}</div>
         </router-link>
@@ -84,9 +87,9 @@
 
       <!-- Divider -->
       <div class="flex items-center gap-4">
-        <div class="flex-1 h-px bg-stone-100"></div>
-        <span class="text-[10px] tracking-widest text-stone-300 uppercase">Oils</span>
-        <div class="flex-1 h-px bg-stone-100"></div>
+        <div class="flex-1 h-px divider-gold opacity-40"></div>
+        <span class="text-[10px] tracking-widest uppercase" style="color: #c9a84c;">Oils</span>
+        <div class="flex-1 h-px divider-gold opacity-40"></div>
       </div>
 
       <!-- Featured oils -->
