@@ -1,10 +1,10 @@
 <template>
   <div class="flex flex-col h-screen">
     <!-- Header -->
-    <div class="px-5 pt-10 pb-4 bg-gradient-to-b from-stone-50 to-cream">
+    <div class="px-5 pt-12 pb-4 bg-gradient-to-b from-stone-50 to-cream">
       <p class="text-[10px] tracking-[0.2em] text-primary-400 uppercase mb-1">Encyclopedia</p>
-      <div class="flex items-end justify-between mb-4">
-        <h1 class="text-2xl font-light text-stone-800 tracking-wide">精油百科</h1>
+      <div class="flex items-end justify-between mb-5">
+        <h1 class="text-2xl font-serif font-light text-stone-800 tracking-wide">精油百科</h1>
         <button @click="showFilter = !showFilter"
           class="flex items-center gap-1.5 text-xs tracking-wide px-3 py-1.5 rounded-full border transition-colors"
           :class="store.selectedCategory
@@ -28,7 +28,7 @@
           <!-- All -->
           <button @click="select(null)"
             :class="[
-              'flex flex-col items-center gap-1.5 py-3 rounded-xl border transition-all',
+              'flex flex-col items-center gap-1.5 py-3 rounded-lg border transition-all',
               store.selectedCategory === null
                 ? 'border-stone-800 bg-stone-800 text-white'
                 : 'border-stone-100 bg-stone-50 text-stone-500'
@@ -40,7 +40,7 @@
           <button v-for="cat in categoryList" :key="cat.value"
             @click="select(cat.value)"
             :class="[
-              'flex flex-col items-center gap-1.5 py-3 rounded-xl border transition-all',
+              'flex flex-col items-center gap-1.5 py-3 rounded-lg border transition-all',
               store.selectedCategory === cat.value
                 ? [cat.meta.bg, cat.meta.text, 'border-transparent']
                 : 'border-stone-100 bg-stone-50 text-stone-500'
@@ -56,7 +56,7 @@
     </transition>
 
     <!-- Count + active filter indicator -->
-    <div class="px-5 py-2 bg-cream flex items-center justify-between">
+    <div class="px-5 py-2.5 bg-cream flex items-center justify-between">
       <span class="text-xs text-stone-300 tracking-wide">共 {{ filteredOils.length }} 種精油</span>
       <button v-if="store.selectedCategory" @click="select(null)"
         class="flex items-center gap-1 text-xs text-stone-400 tracking-wide">
@@ -69,7 +69,7 @@
 
     <!-- List -->
     <div class="flex-1 overflow-y-auto px-4 pb-4">
-      <div v-if="filteredOils.length" class="space-y-2">
+      <div v-if="filteredOils.length" class="space-y-2 pt-2">
         <OilCard v-for="oil in filteredOils" :key="oil.id" :oil="oil" />
       </div>
       <div v-else class="flex flex-col items-center justify-center py-20 text-stone-300">

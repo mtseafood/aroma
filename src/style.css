@@ -8,9 +8,9 @@
 }
 
 @layer components {
-  .card { @apply bg-white rounded-2xl border border-stone-100; }
+  .card { @apply bg-white rounded-xl border border-stone-100; }
   .pill {
-    @apply inline-block px-3 py-1 rounded-full text-xs font-medium tracking-wide
+    @apply inline-block px-2.5 py-0.5 rounded text-xs font-medium tracking-wide
            bg-stone-100 text-stone-500;
   }
   .btn-primary {
@@ -22,7 +22,7 @@
            active:scale-95 transition-transform duration-100;
   }
   .input {
-    @apply w-full bg-stone-100 rounded-xl px-4 py-3 text-sm outline-none
+    @apply w-full bg-stone-100 rounded-lg px-4 py-3 text-sm outline-none
            focus:ring-2 focus:ring-primary-300 transition;
   }
 }
@@ -39,8 +39,8 @@
 
 /* Hero dot texture */
 .hero-texture {
-  background-image: radial-gradient(circle, rgba(100,80,50,0.055) 1px, transparent 1px);
-  background-size: 22px 22px;
+  background-image: radial-gradient(circle, rgba(100,80,50,0.045) 1px, transparent 1px);
+  background-size: 24px 24px;
 }
 
 /* Mobile bottom nav safe area */

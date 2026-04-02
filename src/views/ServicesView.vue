@@ -1,37 +1,37 @@
 <template>
   <div>
     <!-- Header -->
-    <div class="bg-gradient-to-b from-stone-50 to-white px-8 pt-12 pb-8 text-center">
-      <NahaBadge class="mb-5" />
-      <h1 class="text-2xl font-light text-stone-800 tracking-wide mt-1">服務項目</h1>
-      <p class="text-xs text-stone-400 mt-2">每一個療程，都是給自己的禮物</p>
+    <div class="bg-gradient-to-b from-stone-50 to-white px-8 pt-14 pb-10 text-center">
+      <NahaBadge class="mb-6" />
+      <h1 class="text-2xl font-serif font-light text-stone-800 tracking-wide mt-1">服務項目</h1>
+      <p class="text-xs text-stone-400 mt-2.5">每一個療程，都是給自己的禮物</p>
     </div>
 
-    <div class="px-5 py-6 space-y-4">
+    <div class="px-5 py-6 space-y-6">
 
-      <div v-for="service in services" :key="service.title" class="bg-stone-50 rounded-2xl overflow-hidden">
+      <div v-for="service in services" :key="service.title" class="bg-white rounded-xl border border-stone-100 overflow-hidden">
         <!-- Photo placeholder -->
-        <div class="h-44 bg-stone-200 overflow-hidden">
+        <div class="h-44 bg-stone-100 overflow-hidden">
           <img :src="service.image" :alt="service.title"
             class="w-full h-full object-cover"
             @error="e => e.target.style.display='none'" />
         </div>
 
-        <div class="p-5">
+        <div class="p-6">
           <div class="flex items-start justify-between mb-3">
             <div>
               <p class="text-[10px] tracking-widest text-primary-400 uppercase mb-1">{{ service.en }}</p>
               <h3 class="font-semibold text-stone-800">{{ service.title }}</h3>
             </div>
             <span v-if="service.badge"
-              class="text-[10px] tracking-wide border border-primary-300 text-primary-500 px-2 py-1 rounded-full">
+              class="text-[10px] tracking-wide border border-primary-300 text-primary-500 px-2 py-1 rounded">
               {{ service.badge }}
             </span>
           </div>
 
           <p class="text-sm text-stone-500 leading-relaxed">{{ service.desc }}</p>
 
-          <div class="mt-4 space-y-1.5">
+          <div class="mt-5 space-y-2">
             <div v-for="item in service.includes" :key="item"
               class="flex items-center gap-2 text-xs text-stone-400">
               <div class="w-1 h-1 rounded-full bg-primary-300 flex-shrink-0"></div>
@@ -40,7 +40,7 @@
           </div>
 
           <!-- Pricing + CTA -->
-          <div class="mt-5 pt-4 border-t border-stone-200 space-y-3">
+          <div class="mt-6 pt-5 border-t border-stone-100 space-y-4">
             <div class="flex items-end justify-between">
               <div>
                 <p class="text-[10px] tracking-widest text-stone-300 uppercase mb-1">時長</p>
@@ -59,10 +59,16 @@
         </div>
       </div>
 
+      <!-- doTERRA note -->
+      <div class="flex items-center gap-3 px-2">
+        <img src="/images/doterra_icon.jpg" alt="dōTERRA" class="h-5 w-auto opacity-60" />
+        <p class="text-xs text-stone-400">所有療程精油皆採用 dōTERRA CPTG® 認證純正精油</p>
+      </div>
+
       <!-- Coming soon -->
-      <div class="border border-dashed border-stone-200 rounded-2xl p-8 text-center">
+      <div class="border border-dashed border-stone-200 rounded-xl p-10 text-center">
         <p class="text-sm font-medium text-stone-500">更多療癒項目</p>
-        <p class="text-xs text-stone-300 mt-1 tracking-wide">持續規劃中 · Coming Soon</p>
+        <p class="text-xs text-stone-300 mt-1.5 tracking-wide">持續規劃中 · Coming Soon</p>
       </div>
 
     </div>
