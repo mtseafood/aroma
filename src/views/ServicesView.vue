@@ -62,7 +62,7 @@
       <!-- doTERRA note -->
       <div class="flex items-center gap-3 px-2">
         <img src="/images/doterra_icon.jpg" alt="dōTERRA" class="h-5 w-auto opacity-60" />
-        <p class="text-xs text-stone-400">所有療程精油皆採用 dōTERRA CPTG® 認證純正精油</p>
+        <p class="text-xs text-stone-400">本工作室所有療程皆使用 dōTERRA 品牌精油</p>
       </div>
 
       <!-- Coming soon -->

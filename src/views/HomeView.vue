@@ -31,11 +31,16 @@
 
     <!-- Brand trust strip -->
     <div class="bg-white border-b border-stone-100 px-8 py-5">
-      <p class="text-[10px] tracking-widest text-stone-300 uppercase text-center mb-4">指定使用品牌</p>
-      <div class="flex items-center justify-center gap-8">
-        <img src="/images/doterra_icon.jpg" alt="dōTERRA" class="h-7 w-auto opacity-70" />
-        <div class="w-px h-6 bg-stone-200"></div>
-        <img src="/images/naha_icon.png" alt="NAHA" class="h-7 w-auto opacity-70" />
+      <div class="flex items-center justify-center gap-10">
+        <div class="flex flex-col items-center gap-2">
+          <img src="/images/doterra_icon.jpg" alt="dōTERRA" class="h-6 w-auto opacity-70" />
+          <p class="text-[9px] tracking-widest text-stone-300 uppercase">指定精油品牌</p>
+        </div>
+        <div class="w-px h-8 bg-stone-100"></div>
+        <div class="flex flex-col items-center gap-2">
+          <img src="/images/naha_icon.png" alt="NAHA" class="h-6 w-auto opacity-70" />
+          <p class="text-[9px] tracking-widest text-stone-300 uppercase">芳療師認證</p>
+        </div>
       </div>
     </div>
 

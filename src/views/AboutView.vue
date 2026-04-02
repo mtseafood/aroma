@@ -31,12 +31,12 @@
 
       <!-- doTERRA -->
       <div class="border border-stone-200 rounded-xl p-6">
-        <p class="text-[10px] tracking-widest text-stone-400 uppercase mb-4">Essential Oil Brand</p>
+        <p class="text-[10px] tracking-widest text-stone-400 uppercase mb-4">指定精油品牌</p>
         <div class="flex items-center gap-4 mb-4">
-          <img src="/images/doterra_icon.jpg" alt="dōTERRA" class="h-10 w-auto flex-shrink-0" />
+          <img src="/images/doterra_icon.jpg" alt="dōTERRA" class="h-8 w-auto flex-shrink-0" />
         </div>
         <p class="text-xs text-stone-500 leading-relaxed">
-          好好療癒工作室所有精油療程，皆採用 dōTERRA 品牌精油。dōTERRA 精油通過第三方 CPTG® 純正認證測試，確保每一滴精油的純粹與安全。
+          好好療癒工作室的所有精油療程，皆使用 dōTERRA 品牌精油。每一支精油均通過第三方 CPTG® 純正測試認證，品質純粹、安全可靠。
         </p>
       </div>
 
