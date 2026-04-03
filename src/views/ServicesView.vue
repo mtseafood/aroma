@@ -14,6 +14,7 @@
         <div class="h-44 bg-stone-100 overflow-hidden">
           <img :src="service.image" :alt="service.title"
             class="w-full h-full object-cover"
+            :class="service.image.includes('oils') ? 'object-top' : 'object-center'"
             @error="e => e.target.style.display='none'" />
         </div>
 
@@ -85,7 +86,7 @@ const services = [
     badge: 'NAHA 認證',
     duration: '60 / 90 分鐘',
     price: 'NT$ 2,500 / 3,500',
-    image: '/images/aromatherapy.jpg',
+    image: '/images/studio.jpg',
     desc: '透過專業調配的精油複方，結合芳香按摩或擴香，舒緩身體緊繃、平衡情緒狀態。每一瓶配方都根據你當下的身心需求量身打造。',
     includes: [
       '個人身心狀態評估',
@@ -115,7 +116,7 @@ const services = [
     badge: null,
     duration: '30 分鐘',
     price: 'NT$ 800',
-    image: '/images/consultation.jpg',
+    image: '/images/oils-display.jpg',
     desc: '針對你的具體需求，由 Jacqueline 提供專業精油選用建議，並調配適合你的個人複方精油。',
     includes: [
       '一對一深度諮詢',

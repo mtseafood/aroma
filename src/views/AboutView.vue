@@ -40,6 +40,12 @@
         </p>
       </div>
 
+      <!-- Studio photo -->
+      <div class="rounded-xl overflow-hidden h-52">
+        <img src="/images/studio.jpg" alt="好好療癒工作室"
+          class="w-full h-full object-cover object-center" />
+      </div>
+
       <!-- Story -->
       <div class="p-6 bg-white rounded-xl border border-stone-100">
         <p class="text-[10px] tracking-widest text-stone-400 uppercase mb-5">Story</p>
